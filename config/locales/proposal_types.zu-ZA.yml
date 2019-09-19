@@ -1,0 +1,249 @@
+zu-ZA:
+  pages:
+    proposals:
+      edit:
+        add_solution:
+          standard: "crwdns4196612:0crwdne4196612:0"
+          poll: "crwdns4196614:0crwdne4196614:0"
+          rule_book: "crwdns4196616:0crwdne4196616:0"
+          press: "crwdns4196618:0crwdne4196618:0"
+          event: "crwdns4196620:0crwdne4196620:0"
+          estimate: "crwdns4196622:0crwdne4196622:0"
+          agenda: "crwdns4196624:0crwdne4196624:0"
+          candidates: "crwdns4196626:0crwdne4196626:0"
+          simple: "crwdns4196628:0crwdne4196628:0"
+        solution_title:
+          standard: "crwdns4196630:0crwdne4196630:0"
+          poll: "crwdns4196632:0crwdne4196632:0"
+          rule_book: "crwdns4196634:0crwdne4196634:0"
+          press: "crwdns4196636:0crwdne4196636:0"
+          event: "crwdns4196638:0crwdne4196638:0"
+          estimate: "crwdns4196640:0crwdne4196640:0"
+          agenda: "crwdns4196642:0crwdne4196642:0"
+          candidates: "crwdns4196644:0crwdne4196644:0"
+          simple: "crwdns4196646:0crwdne4196646:0"
+        insert_title:
+          standard: "crwdns4196648:0crwdne4196648:0"
+          poll: "crwdns4196650:0crwdne4196650:0"
+          rule_book: "crwdns4196652:0crwdne4196652:0"
+          press: "crwdns4196654:0crwdne4196654:0"
+          event: "crwdns4196656:0crwdne4196656:0"
+          estimate: "crwdns4196658:0crwdne4196658:0"
+          agenda: "crwdns4196660:0crwdne4196660:0"
+          candidates: "crwdns4196662:0crwdne4196662:0"
+          simple: "crwdns4196664:0crwdne4196664:0"
+        new_solution_title:
+          standard: "crwdns4196666:0%{num}crwdne4196666:0"
+          poll: "crwdns4196668:0%{num}crwdne4196668:0"
+          rule_book: "crwdns4196670:0%{num}crwdne4196670:0"
+          press: "crwdns4196672:0%{num}crwdne4196672:0"
+          event: "crwdns4196674:0%{num}crwdne4196674:0"
+          estimate: "crwdns4196676:0%{num}crwdne4196676:0"
+          agenda: "crwdns4196678:0%{num}crwdne4196678:0"
+          candidates: "crwdns4196680:0%{num}crwdne4196680:0"
+          simple: "crwdns4196682:0%{num}crwdne4196682:0"
+      new:
+        standard:
+          problems_title: "crwdns4196684:0crwdne4196684:0"
+          problems_question: "crwdns4196686:0crwdne4196686:0"
+          problems_title_label: "crwdns4196688:0crwdne4196688:0"
+          objectives_title: "crwdns4196690:0crwdne4196690:0"
+          step_4_title: "crwdns4196692:0crwdne4196692:0"
+          solution:
+            description: "crwdns4196694:0crwdne4196694:0"
+            time: "crwdns4196696:0crwdne4196696:0"
+            subject: "crwdns4196698:0crwdne4196698:0"
+            resources: "crwdns4196700:0crwdne4196700:0"
+            aspects: "crwdns4196702:0crwdne4196702:0"
+            documents: "crwdns4196704:0crwdne4196704:0"
+            pros: "crwdns4196706:0crwdne4196706:0"
+            cons: "crwdns4196708:0crwdne4196708:0"
+            title: "crwdns4196710:0crwdne4196710:0"
+          suggestion_html: |
+            crwdns4196712:0crwdne4196712:0
+          paragraph:
+            similar: "crwdns4196714:0crwdne4196714:0"
+            stakeholders: "crwdns4196716:0crwdne4196716:0"
+            requirements: "crwdns4196718:0crwdne4196718:0"
+          question:
+            paragraph:
+              similar: "crwdns4196720:0crwdne4196720:0"
+              stakeholders: "crwdns4196722:0crwdne4196722:0"
+              requirements: "crwdns4196724:0crwdne4196724:0"
+            solution:
+              description: "crwdns4196726:0crwdne4196726:0"
+              time: "crwdns4196728:0crwdne4196728:0"
+              subject: "crwdns4196730:0crwdne4196730:0"
+              resources: "crwdns4196732:0crwdne4196732:0"
+              aspects: "crwdns4196734:0crwdne4196734:0"
+              documents: "crwdns4196736:0crwdne4196736:0"
+              pros: "crwdns4196738:0crwdne4196738:0"
+              cons: "crwdns4196740:0crwdne4196740:0"
+        rule_book:
+          problems_title: "crwdns4196742:0crwdne4196742:0"
+          problems_title_label: "crwdns4196744:0crwdne4196744:0"
+          problems_question: "crwdns4196746:0crwdne4196746:0"
+          suggestion_html: |
+            crwdns4196748:0crwdne4196748:0
+          solution:
+            title: "crwdns4196750:0crwdne4196750:0"
+            article: "crwdns4196752:0%{num}crwdne4196752:0"
+            pros: "crwdns4196754:0crwdne4196754:0"
+            cons: "crwdns4196756:0crwdne4196756:0"
+          paragraph:
+            inspire: "crwdns4196758:0crwdne4196758:0"
+            requirements: "crwdns4196760:0crwdne4196760:0"
+            stakeholders: "crwdns4196762:0crwdne4196762:0"
+          question:
+            paragraph:
+              inspire: "crwdns4196764:0crwdne4196764:0"
+              requirements: "crwdns4196766:0crwdne4196766:0"
+              stakeholders: "crwdns4196768:0crwdne4196768:0"
+            solution:
+              article: "crwdns4196770:0crwdne4196770:0"
+              pros: "crwdns4196772:0crwdne4196772:0"
+              cons: "crwdns4196774:0crwdne4196774:0"
+        press:
+          problems_title_label: "crwdns4196776:0crwdne4196776:0"
+          problems_title: "crwdns4196778:0crwdne4196778:0"
+          problems_question: "crwdns4196780:0crwdne4196780:0"
+          suggestion_html: |
+            crwdns4196782:0crwdne4196782:0
+          solution:
+            title: "crwdns4196784:0crwdne4196784:0"
+            maintitle: "crwdns4196786:0crwdne4196786:0"
+            subtitle: "crwdns4196788:0crwdne4196788:0"
+            incipit: "crwdns4196790:0crwdne4196790:0"
+            body: "crwdns4196792:0crwdne4196792:0"
+            conclusion: "crwdns4196794:0crwdne4196794:0"
+            deep: "crwdns4196796:0crwdne4196796:0"
+          paragraph:
+            target: "crwdns4196798:0crwdne4196798:0"
+          question:
+            paragraph:
+              target: "crwdns4196800:0crwdne4196800:0"
+            solution:
+              maintitle: "crwdns4196802:0crwdne4196802:0"
+              subtitle: "crwdns4196804:0crwdne4196804:0"
+              incipit: "crwdns4196806:0crwdne4196806:0"
+              body: "crwdns4196808:0crwdne4196808:0"
+              conclusion: "crwdns4196810:0crwdne4196810:0"
+              deep: "crwdns4196812:0crwdne4196812:0"
+        estimate:
+          problems_title_label: "crwdns4196814:0crwdne4196814:0"
+          problems_title: "crwdns4196816:0crwdne4196816:0"
+          problems_question: "crwdns4196818:0crwdne4196818:0"
+          suggestion_html: |
+            crwdns4196820:0crwdne4196820:0
+          solution:
+            title: "crwdns4196822:0crwdne4196822:0"
+            cost: "crwdns4196824:0crwdne4196824:0"
+            problems: "crwdns4196826:0crwdne4196826:0"
+            dumentation: "crwdns4196828:0crwdne4196828:0"
+          paragraph:
+            technical_constrains: "crwdns4196830:0crwdne4196830:0"
+            temporal_constrains: "crwdns4196832:0crwdne4196832:0"
+            other_constrains: "crwdns4196834:0crwdne4196834:0"
+            budget: "crwdns4196836:0crwdne4196836:0"
+            recipient_budget: "crwdns4196838:0crwdne4196838:0"
+          question:
+            paragraph:
+              technical_constrains: "crwdns4196840:0crwdne4196840:0"
+              temporal_constrains: "crwdns4196842:0crwdne4196842:0"
+              other_constrains: "crwdns4196844:0crwdne4196844:0"
+              budget: "crwdns4196846:0crwdne4196846:0"
+              recipient_budget: "crwdns4196848:0crwdne4196848:0"
+            solution:
+              cost: "crwdns4196850:0crwdne4196850:0"
+              problems: "crwdns4196852:0crwdne4196852:0"
+              dumentation: "crwdns4196854:0crwdne4196854:0"
+        agenda:
+          problems_title: "crwdns4196856:0crwdne4196856:0"
+          problems_question: "crwdns4196858:0crwdne4196858:0"
+          suggestion_html: |
+            crwdns4196860:0crwdne4196860:0
+          solution:
+            title: "crwdns4196862:0crwdne4196862:0"
+            priorities: "crwdns4196864:0crwdne4196864:0"
+            links: "crwdns4196866:0crwdne4196866:0"
+            description: "crwdns4196868:0crwdne4196868:0"
+            estimated_time: "crwdns4196870:0crwdne4196870:0"
+          paragraph:
+            date_time: "crwdns4196872:0crwdne4196872:0"
+            place: "crwdns4196874:0crwdne4196874:0"
+          question:
+            paragraph:
+              date_time: "crwdns4196876:0crwdne4196876:0"
+              place: "crwdns4196878:0crwdne4196878:0"
+            solution:
+              description: "crwdns4196880:0crwdne4196880:0"
+              links: "crwdns4196882:0crwdne4196882:0"
+              priorities: "crwdns4196884:0crwdne4196884:0"
+              estimated_time: "crwdns4196886:0crwdne4196886:0"
+        event:
+          problems_title: "crwdns4196888:0crwdne4196888:0"
+          problems_title_label: "crwdns4196890:0crwdne4196890:0"
+          problems_question: "crwdns4196892:0crwdne4196892:0"
+          suggestion_html: |
+            crwdns4196894:0crwdne4196894:0
+          solution:
+            title: "crwdns4196896:0crwdne4196896:0"
+            maintitle: "crwdns4196898:0crwdne4196898:0"
+            description: "crwdns4196900:0crwdne4196900:0"
+            program: "crwdns4196902:0crwdne4196902:0"
+            body: "crwdns4196904:0crwdne4196904:0"
+            place: "crwdns4196906:0crwdne4196906:0"
+            organization: "crwdns4196908:0crwdne4196908:0"
+            resources: "crwdns4196910:0crwdne4196910:0"
+            pros: "crwdns4196912:0crwdne4196912:0"
+            cons: "crwdns4196914:0crwdne4196914:0"
+          paragraph:
+            similar_experiences: "crwdns4196916:0crwdne4196916:0"
+            stakeholders: "crwdns4196918:0crwdne4196918:0"
+            desired_characteristics: "crwdns4196920:0crwdne4196920:0"
+          question:
+            paragraph:
+              similar_experiences: "crwdns4196922:0crwdne4196922:0"
+              stakeholders: "crwdns4196924:0crwdne4196924:0"
+              desired_characteristics: "crwdns4196926:0crwdne4196926:0"
+            solution:
+              description: "crwdns4196928:0crwdne4196928:0"
+              program: "crwdns4196930:0crwdne4196930:0"
+              place: "crwdns4196932:0crwdne4196932:0"
+              organization: "crwdns4196934:0crwdne4196934:0"
+              resources: "crwdns4196936:0crwdne4196936:0"
+        candidates:
+          suggestion_html: |
+            crwdns4196938:0crwdne4196938:0
+          solution:
+            name: "crwdns4196940:0crwdne4196940:0"
+            data: "crwdns4196942:0crwdne4196942:0"
+            curriculum: "crwdns4196944:0crwdne4196944:0"
+          paragraph:
+            election_type: "crwdns4196946:0crwdne4196946:0"
+            role: "crwdns4196948:0crwdne4196948:0"
+            requirements: "crwdns4196950:0crwdne4196950:0"
+          question:
+            paragraph:
+              role: "crwdns4196952:0crwdne4196952:0"
+              requirements: "crwdns4196954:0crwdne4196954:0"
+            solution:
+              name: "crwdns4196956:0crwdne4196956:0"
+              data: "crwdns4196958:0crwdne4196958:0"
+              curriculum: "crwdns4196960:0crwdne4196960:0"
+        simple:
+          problems_title: "crwdns4196962:0crwdne4196962:0"
+          problems_title_label: "crwdns4196964:0crwdne4196964:0"
+          problems_question: "crwdns4196966:0crwdne4196966:0"
+          solution:
+            description: "crwdns4196968:0crwdne4196968:0"
+            title: "crwdns4196970:0crwdne4196970:0"
+          question:
+            solution:
+              description: "crwdns4196972:0crwdne4196972:0"
+        petition:
+          paragraph:
+            text: "crwdns4196974:0crwdne4196974:0"
+          question:
+            paragraph:
+              text: "crwdns4196976:0crwdne4196976:0"
