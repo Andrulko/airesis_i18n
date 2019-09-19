@@ -1,0 +1,84 @@
+zu-ZA:
+  errors:
+    messages:
+      expired: "crwdns4196124:0crwdne4196124:0"
+      not_found: "crwdns4196126:0crwdne4196126:0"
+      already_confirmed: "crwdns4196128:0crwdne4196128:0"
+      not_locked: "crwdns4196130:0crwdne4196130:0"
+      not_saved:
+        one: "crwdns4196132:1%{resource}crwdne4196132:1"
+        other: "crwdns4196132:5%{count}crwdnd4196132:5%{resource}crwdne4196132:5"
+  devise:
+    failure:
+      locked: 'crwdns4196134:0crwdne4196134:0'
+      invalid: 'crwdns4196136:0crwdne4196136:0'
+      invalid_token: 'crwdns4196138:0crwdne4196138:0'
+      timeout: 'crwdns4196140:0crwdne4196140:0'
+      inactive: 'crwdns4196142:0crwdne4196142:0'
+      already_authenticated: 'crwdns4196144:0crwdne4196144:0'
+      unauthenticated: 'crwdns4196146:0crwdne4196146:0'
+      unconfirmed: "crwdns4196148:0crwdne4196148:0"
+      user:
+        invalid: 'crwdns4196150:0crwdne4196150:0'
+        not_found_in_database: 'crwdns4196152:0crwdne4196152:0'
+    sessions:
+      signed_in: 'crwdns4196154:0crwdne4196154:0'
+      signed_out: 'crwdns4196156:0crwdne4196156:0'
+      user:
+        signed_out: 'crwdns4196158:0crwdne4196158:0'
+        signed_in: 'crwdns4196160:0crwdne4196160:0'
+        signed_up: 'crwdns4196162:0crwdne4196162:0'
+    passwords:
+      send_instructions: 'crwdns4196164:0crwdne4196164:0'
+      updated: 'crwdns4196166:0crwdne4196166:0'
+      updated_not_active: 'crwdns4196168:0crwdne4196168:0'
+      send_paranoid_instructions: "crwdns4196170:0crwdne4196170:0"
+    confirmations:
+      send_instructions: 'crwdns4196172:0crwdne4196172:0'
+      send_paranoid_instructions: 'crwdns4196174:0crwdne4196174:0'
+      confirmed: 'crwdns4196176:0crwdne4196176:0'
+      user:
+        confirmed: 'crwdns4196178:0crwdne4196178:0'
+        send_instructions: 'crwdns4196180:0crwdne4196180:0'
+    registrations:
+      signed_up: 'crwdns4196182:0crwdne4196182:0'
+      signed_up_but_unconfirmed: 'crwdns4196184:0crwdne4196184:0'
+      signed_up_but_inactive: 'crwdns4196186:0crwdne4196186:0'
+      signed_up_but_locked: 'crwdns4196188:0crwdne4196188:0'
+      updated: 'crwdns4196190:0crwdne4196190:0'
+      update_needs_confirmation: "crwdns4196192:0crwdne4196192:0"
+      destroyed: 'crwdns4196194:0crwdne4196194:0'
+      user:
+        inactive_signed_up: 'crwdns4196196:0crwdne4196196:0'
+        signed_up_but_unconfirmed: 'crwdns4196198:0crwdne4196198:0'
+    unlocks:
+      send_instructions: 'crwdns4196200:0crwdne4196200:0'
+      unlocked: 'crwdns4196202:0crwdne4196202:0'
+      send_paranoid_instructions: 'crwdns4196204:0crwdne4196204:0'
+    omniauth_callbacks:
+      success: 'crwdns4196206:0crwdne4196206:0'
+      failure: 'crwdns4196208:0%{kind}crwdnd4196208:0%{reason}crwdne4196208:0'
+      creation_failure: "crwdns4196210:0%{provider}crwdne4196210:0"
+      join_success: "crwdns4196212:0%{provider}crwdne4196212:0"
+      join_failure: "crwdns4196214:0%{provider}crwdne4196214:0"
+      certified_email_taken: "crwdns4196216:0crwdne4196216:0"
+      already_certified: "crwdns4196218:0crwdne4196218:0"
+      account_not_verified: "crwdns4196220:0%{provider}crwdnd4196220:0%{provider}crwdne4196220:0"
+    mailer:
+      confirmation_instructions:
+        subject: 'crwdns4196222:0crwdne4196222:0'
+        welcome: "crwdns4196224:0%{app_name}crwdnd4196224:0%{user}crwdne4196224:0"
+        follow_link: "crwdns4196226:0crwdne4196226:0"
+        confirm_account: "crwdns4196228:0crwdne4196228:0"
+        follow_link_2: "crwdns4196230:0crwdne4196230:0"
+        access_by_email: "crwdns4196232:0%{app_name}crwdne4196232:0"
+        contact_assistance: "crwdns4196234:0%{mail}crwdne4196234:0"
+      reset_password_instructions:
+        subject: 'crwdns4196236:0crwdne4196236:0'
+        hi_user: "crwdns4196238:0%{user}crwdne4196238:0"
+        follow_link: "crwdns4196240:0crwdne4196240:0"
+        change_password: "crwdns4196242:0crwdne4196242:0"
+        ignore: "crwdns4196244:0crwdne4196244:0"
+        password_will_not_change: "crwdns4196246:0crwdne4196246:0"
+      unlock_instructions:
+        subject: 'crwdns4196248:0crwdne4196248:0'
