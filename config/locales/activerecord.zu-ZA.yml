@@ -1,0 +1,164 @@
+zu-ZA:
+  activerecord:
+    models:
+      meeting: 'crwdns4195056:0crwdne4195056:0'
+      places: 'crwdns4195058:0crwdne4195058:0'
+    attributes:
+      blog_comment:
+        body: 'crwdns4195060:0crwdne4195060:0'
+        created_at: "crwdns4195062:0crwdne4195062:0"
+      event:
+        title: 'crwdns4195064:0crwdne4195064:0'
+        description: 'crwdns4195066:0crwdne4195066:0'
+        event_type_id: 'crwdns4195068:0crwdne4195068:0'
+        starttime: 'crwdns4195070:0crwdne4195070:0'
+        endtime: 'crwdns4195072:0crwdne4195072:0'
+        all_day: 'crwdns4195074:0crwdne4195074:0'
+        period: 'crwdns4195076:0crwdne4195076:0'
+        frequency: 'crwdns4195078:0crwdne4195078:0'
+        private: 'crwdns4195080:0crwdne4195080:0'
+      group:
+        facebook_page_url: 'crwdns4195082:0crwdne4195082:0'
+        name: 'crwdns4195084:0crwdne4195084:0'
+        title_bar: 'crwdns4195086:0crwdne4195086:0'
+        description: 'crwdns4195088:0crwdne4195088:0'
+        accept_requests: 'crwdns4195090:0crwdne4195090:0'
+        porta_id: 'crwdns4195092:0crwdne4195092:0'
+        interest_border_tkn: 'crwdns4195094:0crwdne4195094:0'
+        interest_border_id: 'crwdns4195096:0crwdne4195096:0'
+        image_url: 'crwdns4195098:0crwdne4195098:0'
+        default_role_name: "crwdns4195100:0crwdne4195100:0"
+        default_role_name_placeholder: "crwdns4195102:0crwdne4195102:0"
+        name_placeholder: "crwdns4195104:0crwdne4195104:0"
+        title_bar_placeholder: "crwdns4195106:0crwdne4195106:0"
+        description_placeholder: "crwdns4195108:0crwdne4195108:0"
+        image_url_placeholder: "crwdns4195110:0crwdne4195110:0"
+        facebook_page_url_placeholder: "crwdns4195112:0crwdne4195112:0"
+        admin_title: "crwdns4195114:0crwdne4195114:0"
+        private: "crwdns4195116:0crwdne4195116:0"
+        rule_book: "crwdns4195118:0crwdne4195118:0"
+        image: "crwdns4195120:0crwdne4195120:0"
+        admin_title_placeholder: "crwdns4195122:0crwdne4195122:0"
+      blog:
+        title: 'crwdns4195124:0crwdne4195124:0'
+      blog_post:
+        title: 'crwdns4195126:0crwdne4195126:0'
+        body: 'crwdns4195128:0crwdne4195128:0'
+        published: 'crwdns4195130:0crwdne4195130:0'
+        published_true: 'crwdns4195132:0crwdne4195132:0'
+        published_false: 'crwdns4195134:0crwdne4195134:0'
+        published_reserved: "crwdns4195136:0crwdne4195136:0"
+        group_ids: crwdns4195138:0crwdne4195138:0
+        published_at: crwdns4195140:0crwdne4195140:0
+      participation_role:
+        name: 'crwdns4195142:0crwdne4195142:0'
+        description: 'crwdns4195144:0crwdne4195144:0'
+      group_invitation:
+        emails_list: "crwdns4195146:0crwdne4195146:0"
+        testo: "crwdns4195148:0crwdne4195148:0"
+      place:
+        address: 'crwdns4195150:0crwdne4195150:0'
+        municipality_id: 'crwdns4195152:0crwdne4195152:0'
+        latitude_original: crwdns4195154:0crwdne4195154:0
+        longitude_original: crwdns4195156:0crwdne4195156:0
+      proposal:
+        group_area_id: "crwdns4195158:0crwdne4195158:0"
+        proposal_category_id: 'crwdns4195160:0crwdne4195160:0'
+        title: 'crwdns4195162:0crwdne4195162:0'
+        subtitle: 'crwdns4195164:0crwdne4195164:0'
+        problems: 'crwdns4195166:0crwdne4195166:0'
+        objectives: 'crwdns4195168:0crwdne4195168:0'
+        content: 'crwdns4195170:0crwdne4195170:0'
+        interest_borders_tkn: 'crwdns4195172:0crwdne4195172:0'
+        tags_list: "crwdns4195174:0crwdne4195174:0"
+        quorum_id: "crwdns4195176:0crwdne4195176:0"
+        anonima: "crwdns4195178:0crwdne4195178:0"
+        visible_outside: "crwdns4195180:0crwdne4195180:0"
+        secret_vote: "crwdns4195182:0crwdne4195182:0"
+        vote_starts_at: "crwdns4195184:0crwdne4195184:0"
+        vote_ends_at: "crwdns4195186:0crwdne4195186:0"
+        debate_starts_at: "crwdns4195188:0crwdne4195188:0"
+        debate_ends_at: "crwdns4195190:0crwdne4195190:0"
+      proposal_comment:
+        content: 'crwdns4195192:0crwdne4195192:0'
+      quorum:
+        name: 'crwdns4195194:0crwdne4195194:0'
+        name_title: 'crwdns4195196:0crwdne4195196:0'
+        description: 'crwdns4195198:0crwdne4195198:0'
+        description_title: 'crwdns4195200:0crwdne4195200:0'
+        minutes: crwdns4195202:0crwdne4195202:0
+        days_m: crwdns4195204:0crwdne4195204:0
+        hours_m: crwdns4195206:0crwdne4195206:0
+        minutes_m: crwdns4195208:0crwdne4195208:0
+        percentage: 'crwdns4195210:0crwdne4195210:0'
+        percentage_title: 'crwdns4195212:0crwdne4195212:0'
+        good_score: 'crwdns4195214:0crwdne4195214:0'
+        good_score_title: 'crwdns4195216:0crwdne4195216:0'
+        bad_score: 'crwdns4195218:0crwdne4195218:0'
+        bad_score_title: 'crwdns4195220:0crwdne4195220:0'
+        condition: crwdns4195222:0crwdne4195222:0
+        condition_title: 'crwdns4195224:0crwdne4195224:0'
+        vote_minutes: 'crwdns4195226:0crwdne4195226:0'
+        vote_percentage: 'crwdns4195228:0crwdne4195228:0'
+        vote_good_score: 'crwdns4195230:0crwdne4195230:0'
+      search_participant:
+        role_id: 'crwdns4195232:0crwdne4195232:0'
+        keywords: 'crwdns4195234:0crwdne4195234:0'
+      user:
+        name: 'crwdns4195236:0crwdne4195236:0'
+        email: 'crwdns4195238:0crwdne4195238:0'
+        surname: 'crwdns4195240:0crwdne4195240:0'
+        password: 'crwdns4195242:0crwdne4195242:0'
+        linkedinpageurl: 'crwdns4195244:0crwdne4195244:0'
+        facebookpageurl: 'crwdns4195246:0crwdne4195246:0'
+        accept_conditions: 'crwdns4195248:0crwdne4195248:0'
+        receive_newsletter: 'crwdns4195250:0crwdne4195250:0'
+        blocked: "crwdns4195252:0crwdne4195252:0"
+      user_sensitive:
+        name: 'crwdns4195254:0crwdne4195254:0'
+      group_area:
+        name: "crwdns4195256:0crwdne4195256:0"
+        description: "crwdns4195258:0crwdne4195258:0"
+        default_role_name: "crwdns4195260:0crwdne4195260:0"
+    errors:
+      template:
+        header:
+          one: 'crwdns4195262:1%{model}crwdne4195262:1'
+          other: 'crwdns4195262:5%{count}crwdnd4195262:5%{model}crwdne4195262:5'
+        body: 'crwdns4195264:0crwdne4195264:0'
+      messages:
+        inclusion: 'crwdns4195266:0crwdne4195266:0'
+        exclusion: 'crwdns4195268:0crwdne4195268:0'
+        invalid: 'crwdns4195270:0crwdne4195270:0'
+        confirmation: 'crwdns4195272:0crwdne4195272:0'
+        accepted: 'crwdns4195274:0crwdne4195274:0'
+        empty: 'crwdns4195276:0crwdne4195276:0'
+        blank: 'crwdns4195278:0crwdne4195278:0'
+        too_long: 'crwdns4195280:0crwdne4195280:0'
+        too_short: 'crwdns4195282:0crwdne4195282:0'
+        wrong_length: 'crwdns4195284:0%{count}crwdne4195284:0'
+        taken: 'crwdns4195286:0crwdne4195286:0'
+        not_a_number: 'crwdns4195288:0crwdne4195288:0'
+        not_an_email: 'crwdns4195290:0crwdne4195290:0'
+        greater_than: 'crwdns4195292:0%{count}crwdne4195292:0'
+        greater_than_or_equal_to: 'crwdns4195294:0%{count}crwdne4195294:0'
+        equal_to: 'crwdns4195296:0%{count}crwdne4195296:0'
+        less_than: 'crwdns4195298:0%{count}crwdne4195298:0'
+        less_than_or_equal_to: 'crwdns4195300:0%{count}crwdne4195300:0'
+        odd: 'crwdns4195302:0crwdne4195302:0'
+        even: 'crwdns4195304:0crwdne4195304:0'
+        record_invalid: 'crwdns4195306:0%{errors}crwdne4195306:0'
+        not_found: 'crwdns4195308:0crwdne4195308:0'
+        TOS: "crwdns4195310:0crwdne4195310:0"
+        certified_cannot_edit: 'crwdns4195312:0crwdne4195312:0'
+        forum_visibility: "crwdns4195314:0crwdne4195314:0"
+      full_messages:
+        format: "crwdns4195316:0%{attribute}crwdnd4195316:0%{message}crwdne4195316:0"
+      models:
+        user:
+          attributes:
+            email:
+              already_confirmed: 'crwdns4195318:0crwdne4195318:0'
+        group:
+          portavoce:
+            required: 'crwdns4195320:0crwdne4195320:0'
