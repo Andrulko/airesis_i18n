@@ -1,0 +1,244 @@
+zu-ZA:
+  frm:
+    general:
+      forum: crwdns4196250:0crwdne4196250:0
+      topics: crwdns4196252:0crwdne4196252:0
+      topic: crwdns4196254:0crwdne4196254:0
+      posts: crwdns4196256:0crwdne4196256:0
+      posts_count:
+        one: crwdns4196258:1crwdne4196258:1
+        other: "crwdns4196258:5%{count}crwdne4196258:5"
+      flagged_for_spam: crwdns4196260:0crwdne4196260:0
+      cannot_create_topic: crwdns4196262:0crwdne4196262:0
+      cannot_create_post: crwdns4196264:0crwdne4196264:0
+    access_denied: "crwdns4196266:0crwdne4196266:0"
+    admin:
+      area: crwdns4196268:0crwdne4196268:0
+      back_to_admin: "crwdns4196270:0crwdne4196270:0"
+      back_to_forums: "crwdns4196272:0crwdne4196272:0"
+      back_to_groups: "crwdns4196274:0crwdne4196274:0"
+      forum:
+        moderator_groups: crwdns4196276:0crwdne4196276:0
+        index: crwdns4196278:0crwdne4196278:0
+        new: crwdns4196280:0crwdne4196280:0
+        new_link: crwdns4196282:0crwdne4196282:0
+        deleted: crwdns4196284:0crwdne4196284:0
+        created: crwdns4196286:0crwdne4196286:0
+        not_created: crwdns4196288:0crwdne4196288:0
+        updated: crwdns4196290:0crwdne4196290:0
+        not_updated: crwdns4196292:0crwdne4196292:0
+      forums:
+        edit: crwdns4196294:0crwdne4196294:0
+        delete: crwdns4196296:0crwdne4196296:0
+        category: crwdns4196298:0crwdne4196298:0
+        delete_confirm: crwdns4196300:0crwdne4196300:0
+        index:
+          last_post: crwdns4196302:0crwdne4196302:0
+          none: crwdns4196304:0crwdne4196304:0
+          moderators: crwdns4196306:0crwdne4196306:0
+          no_category: crwdns4196308:0crwdne4196308:0
+        default_private: "crwdns4196310:0crwdne4196310:0"
+        default_public: "crwdns4196312:0crwdne4196312:0"
+        default_private_description: "crwdns4196314:0crwdne4196314:0"
+        default_public_description: "crwdns4196316:0crwdne4196316:0"
+      mod:
+        index: crwdns4196318:0crwdne4196318:0
+        new: crwdns4196320:0crwdne4196320:0
+        created: crwdns4196322:0crwdne4196322:0
+        not_created: crwdns4196324:0crwdne4196324:0
+        deleted: crwdns4196326:0crwdne4196326:0
+        members: "crwdns4196328:0%{group}crwdne4196328:0"
+      mods:
+        show:
+          add_member: crwdns4196330:0crwdne4196330:0
+          add_a_new_member: "crwdns4196332:0crwdne4196332:0"
+          current_members: "crwdns4196334:0crwdne4196334:0"
+        edit: crwdns4196336:0crwdne4196336:0
+        delete: crwdns4196338:0crwdne4196338:0
+        name: crwdns4196340:0crwdne4196340:0
+      category:
+        index: crwdns4196342:0crwdne4196342:0
+        new: crwdns4196344:0crwdne4196344:0
+        edit: "crwdns4196346:0%{title}crwdne4196346:0"
+        new_link: crwdns4196348:0crwdne4196348:0
+        deleted: crwdns4196350:0crwdne4196350:0
+        created: crwdns4196352:0crwdne4196352:0
+        not_created: crwdns4196354:0crwdne4196354:0
+        updated: crwdns4196356:0crwdne4196356:0
+        not_updated: crwdns4196358:0crwdne4196358:0
+      categories:
+        edit: crwdns4196360:0crwdne4196360:0
+        delete: crwdns4196362:0crwdne4196362:0
+        category: crwdns4196364:0crwdne4196364:0
+        delete_confirm: crwdns4196366:0crwdne4196366:0
+        default_private: "crwdns4196368:0crwdne4196368:0"
+        default_public: "crwdns4196370:0crwdne4196370:0"
+      group:
+        index: "crwdns4196372:0crwdne4196372:0"
+        show:
+          title: "crwdns4196374:0crwdne4196374:0"
+        new: "crwdns4196376:0crwdne4196376:0"
+        created: "crwdns4196378:0crwdne4196378:0"
+        not_created: "crwdns4196380:0crwdne4196380:0"
+        deleted: "crwdns4196382:0crwdne4196382:0"
+    common:
+      pages: crwdns4196384:0crwdne4196384:0
+    errors:
+      not_signed_in: crwdns4196386:0crwdne4196386:0
+      access_denied: crwdns4196388:0crwdne4196388:0
+    forum:
+      header: "crwdns4196390:0%{title}crwdne4196390:0"
+      forums: crwdns4196392:0crwdne4196392:0
+      new: crwdns4196394:0crwdne4196394:0
+      edit: "crwdns4196396:0%{title}crwdne4196396:0"
+      topics_count:
+        one: crwdns4196398:1crwdne4196398:1
+        other: "crwdns4196398:5%{count}crwdne4196398:5"
+      posts_count:
+        one: crwdns4196400:1crwdne4196400:1
+        other: "crwdns4196400:5%{count}crwdne4196400:5"
+      moderator_tools: "crwdns4196402:0crwdne4196402:0"
+      topic_tools: "crwdns4196404:0crwdne4196404:0"
+      admin_tools: "crwdns4196406:0crwdne4196406:0"
+      title: "crwdns4196408:0crwdne4196408:0"
+    forums:
+      index:
+        title: crwdns4196410:0crwdne4196410:0
+        forum: crwdns4196412:0crwdne4196412:0
+        views: crwdns4196414:0crwdne4196414:0
+        last_post: 'crwdns4196416:0crwdne4196416:0'
+        none: crwdns4196418:0crwdne4196418:0
+    topic:
+      headings:
+        topic: crwdns4196420:0crwdne4196420:0
+        latest: crwdns4196422:0crwdne4196422:0
+        posts: crwdns4196424:0crwdne4196424:0
+        views: crwdns4196426:0crwdne4196426:0
+      moderation:
+        success: crwdns4196428:0crwdne4196428:0
+        no_option_selected: crwdns4196430:0crwdne4196430:0
+      received_reply: crwdns4196432:0crwdne4196432:0
+      reply: crwdns4196434:0crwdne4196434:0
+      quote: crwdns4196436:0crwdne4196436:0
+      delete: crwdns4196438:0crwdne4196438:0
+      created: crwdns4196440:0crwdne4196440:0
+      new: crwdns4196442:0crwdne4196442:0
+      edit: crwdns4196444:0crwdne4196444:0
+      not_created: crwdns4196446:0crwdne4196446:0
+      deleted: crwdns4196448:0crwdne4196448:0
+      cannot_delete: crwdns4196450:0crwdne4196450:0
+      updated: crwdns4196452:0crwdne4196452:0
+      not_updated: crwdns4196454:0crwdne4196454:0
+      subscribed: crwdns4196456:0crwdne4196456:0
+      unsubscribed: crwdns4196458:0crwdne4196458:0
+      none: crwdns4196460:0crwdne4196460:0
+      links:
+        new: crwdns4196462:0crwdne4196462:0
+        back_to_topics: crwdns4196464:0crwdne4196464:0
+        edit: crwdns4196466:0crwdne4196466:0
+      not_found: crwdns4196468:0crwdne4196468:0
+      hidden:
+        'true': crwdns4196470:0crwdne4196470:0
+        'false': crwdns4196472:0crwdne4196472:0
+      locked:
+        'true': crwdns4196474:0crwdne4196474:0
+        'false': crwdns4196476:0crwdne4196476:0
+      pinned:
+        'true': crwdns4196478:0crwdne4196478:0
+        'false': crwdns4196480:0crwdne4196480:0
+    topics:
+      show:
+        reply: crwdns4196482:0crwdne4196482:0
+        delete: crwdns4196484:0crwdne4196484:0
+        subscribe: crwdns4196486:0crwdne4196486:0
+        unsubscribe: crwdns4196488:0crwdne4196488:0
+        reply_to_topic: crwdns4196490:0crwdne4196490:0
+        pending_review: crwdns4196492:0crwdne4196492:0
+        hide:
+          'true': crwdns4196494:0crwdne4196494:0
+          'false': crwdns4196496:0crwdne4196496:0
+        lock:
+          'true': crwdns4196498:0crwdne4196498:0
+          'false': crwdns4196500:0crwdne4196500:0
+        pin:
+          'true': crwdns4196502:0crwdne4196502:0
+          'false': crwdns4196504:0crwdne4196504:0
+        related_proposals: "crwdns4196506:0crwdne4196506:0"
+    post:
+      buttons:
+        reply: crwdns4196508:0crwdne4196508:0
+        edit: crwdns4196510:0crwdne4196510:0
+      created: crwdns4196512:0crwdne4196512:0
+      new: crwdns4196514:0crwdne4196514:0
+      edit: crwdns4196516:0crwdne4196516:0
+      not_created: crwdns4196518:0crwdne4196518:0
+      not_created_topic_locked: crwdns4196520:0crwdne4196520:0
+      edited: crwdns4196522:0crwdne4196522:0
+      not_edited: crwdns4196524:0crwdne4196524:0
+      deleted: crwdns4196526:0crwdne4196526:0
+      deleted_with_topic: crwdns4196528:0crwdne4196528:0
+      cannot_delete: crwdns4196530:0crwdne4196530:0
+      cannot_quote_deleted_post: crwdns4196532:0crwdne4196532:0
+    posts:
+      moderation:
+        moderate: crwdns4196534:0crwdne4196534:0
+        approve: crwdns4196536:0crwdne4196536:0
+        spam: crwdns4196538:0crwdne4196538:0
+        success: crwdns4196540:0crwdne4196540:0
+      post:
+        pending_review: crwdns4196542:0crwdne4196542:0
+        in_reply_to: crwdns4196544:0crwdne4196544:0
+    moderation:
+      index:
+        title: "crwdns4196546:0%{forum}crwdne4196546:0"
+  helpers:
+    submit:
+      frm_forum:
+        create: crwdns4196548:0crwdne4196548:0
+        update: crwdns4196550:0crwdne4196550:0
+      topic:
+        create: crwdns4196552:0crwdne4196552:0
+        update: crwdns4196554:0crwdne4196554:0
+      frm_mod:
+        create: crwdns4196556:0crwdne4196556:0
+      frm_category:
+        create: crwdns4196558:0crwdne4196558:0
+        update: crwdns4196560:0crwdne4196560:0
+  simple_form:
+    labels:
+      frm_forum:
+        category: crwdns4196562:0crwdne4196562:0
+        title: crwdns4196564:0crwdne4196564:0
+        name: crwdns4196566:0crwdne4196566:0
+        description: crwdns4196568:0crwdne4196568:0
+        moderators: crwdns4196570:0crwdne4196570:0
+        visible_outside: crwdns4196572:0crwdne4196572:0
+      topic:
+        subject: crwdns4196574:0crwdne4196574:0
+        locked: crwdns4196576:0crwdne4196576:0
+        pinned: crwdns4196578:0crwdne4196578:0
+        hidden: crwdns4196580:0crwdne4196580:0
+        posts:
+          text: crwdns4196582:0crwdne4196582:0
+      frm_category:
+        name: crwdns4196584:0crwdne4196584:0
+      post:
+        text: crwdns4196586:0crwdne4196586:0
+      frm_mod:
+        name: crwdns4196588:0crwdne4196588:0
+  time_ago_in_words: "crwdns4196590:0%{time}crwdne4196590:0"
+  ago: "crwdns4196592:0crwdne4196592:0"
+  ago_by: "crwdns4196594:0crwdne4196594:0"
+  by: crwdns4196596:0crwdne4196596:0
+  started_by: "crwdns4196598:0crwdne4196598:0"
+  are_you_sure: crwdns4196600:0crwdne4196600:0
+  lst_post: "crwdns4196602:0crwdne4196602:0"
+  last_post: "crwdns4196604:0crwdne4196604:0"
+  back_to_forums: "crwdns4196606:0crwdne4196606:0"
+  pages:
+    forum_groups:
+      index:
+        create_first: crwdns4196608:0crwdne4196608:0
+  info:
+    members:
+      ok_message: crwdns4196610:0crwdne4196610:0
