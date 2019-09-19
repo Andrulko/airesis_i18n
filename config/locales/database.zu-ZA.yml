@@ -1,0 +1,354 @@
+zu-ZA:
+  db:
+    sys_locales:
+      bs-BA:
+        description: crwdns4195498:0crwdne4195498:0
+      de-DE:
+        description: crwdns4195500:0crwdne4195500:0
+      el-GR:
+        description: crwdns4195502:0crwdne4195502:0
+      en-AU:
+        description: crwdns4195504:0crwdne4195504:0
+      en-EU:
+        description: crwdns4195506:0crwdne4195506:0
+      en-GB:
+        description: crwdns4195508:0crwdne4195508:0
+      en-IE:
+        description: crwdns4195510:0crwdne4195510:0
+      en-NZ:
+        description: crwdns4195512:0crwdne4195512:0
+      en-US:
+        description: crwdns4195514:0crwdne4195514:0
+      en-ZA:
+        description: crwdns4195516:0crwdne4195516:0
+      es-AR:
+        description: crwdns4195518:0crwdne4195518:0
+      es-CL:
+        description: crwdns4195520:0crwdne4195520:0
+      es-EC:
+        description: crwdns4195522:0crwdne4195522:0
+      es-ES:
+        description: crwdns4195524:0crwdne4195524:0
+      fr-FR:
+        description: crwdns4195526:0crwdne4195526:0
+      hu-HU:
+        description: crwdns4195528:0crwdne4195528:0
+      id-ID:
+        description: crwdns4195530:0crwdne4195530:0
+      it-IT:
+        description: crwdns4195532:0crwdne4195532:0
+      jp-JP:
+        description: crwdns4195534:0crwdne4195534:0
+      me-ME:
+        description: crwdns4195536:0crwdne4195536:0
+      nl-NL:
+        description: crwdns4195538:0crwdne4195538:0
+      pt-BR:
+        description: crwdns4195540:0crwdne4195540:0
+      pt-PT:
+        description: crwdns4195542:0crwdne4195542:0
+      ro-RO:
+        description: crwdns4195544:0crwdne4195544:0
+      ru-RU:
+        description: crwdns4195546:0crwdne4195546:0
+      sh-HR:
+        description: crwdns4195548:0crwdne4195548:0
+      sr-CS:
+        description: crwdns4195550:0crwdne4195550:0
+      sr-SP:
+        description: crwdns4195552:0crwdne4195552:0
+      zh-TW:
+        description: crwdns4195554:0crwdne4195554:0
+    proposal_types:
+      STANDARD:
+        description: crwdns4195556:0crwdne4195556:0
+      POLL:
+        description: crwdns4195558:0crwdne4195558:0
+      RULE_BOOK:
+        description: crwdns4195560:0crwdne4195560:0
+      PRESS:
+        description: crwdns4195562:0crwdne4195562:0
+      EVENT:
+        description: crwdns4195564:0crwdne4195564:0
+      ESTIMATE:
+        description: crwdns4195566:0crwdne4195566:0
+      AGENDA:
+        description: crwdns4195568:0crwdne4195568:0
+      CANDIDATES:
+        description: crwdns4195570:0crwdne4195570:0
+      SIMPLE:
+        description: crwdns4195572:0crwdne4195572:0
+      PETITION:
+        description: crwdns4195574:0crwdne4195574:0
+    event_types:
+      meeting:
+        description: crwdns4195576:0crwdne4195576:0
+      vote:
+        description: crwdns4195578:0crwdne4195578:0
+      meeting2:
+        description: crwdns4195580:0crwdne4195580:0
+      election:
+        description: crwdns4195582:0crwdne4195582:0
+    group_actions:
+      write_to_wall:
+        description: crwdns4195584:0crwdne4195584:0
+      create_events:
+        description: crwdns4195586:0crwdne4195586:0
+      support_proposals:
+        description: crwdns4195588:0crwdne4195588:0
+      accept_participation_requests:
+        description: crwdns4195590:0crwdne4195590:0
+      view_proposals:
+        description: crwdns4195592:0crwdne4195592:0
+      participate_proposals:
+        description: crwdns4195594:0crwdne4195594:0
+      insert_proposals:
+        description: crwdns4195596:0crwdne4195596:0
+      view_documents:
+        description: crwdns4195598:0crwdne4195598:0
+      manage_documents:
+        description: crwdns4195600:0crwdne4195600:0
+      vote_proposals:
+        description: crwdns4195602:0crwdne4195602:0
+      choose_date_proposals:
+        description: crwdns4195604:0crwdne4195604:0
+    notification_categories:
+      MYPROP:
+        description: crwdns4195606:0crwdne4195606:0
+      PROP:
+        description: crwdns4195608:0crwdne4195608:0
+      NEWPROP:
+        description: crwdns4195610:0crwdne4195610:0
+      NEWEVENT:
+        description: crwdns4195612:0crwdne4195612:0
+      GROUPS:
+        description: crwdns4195614:0crwdne4195614:0
+    notification_types:
+      new_public_events:
+        description: crwdns4195616:0crwdne4195616:0
+        email_subject: "crwdns4195618:0%{event}crwdne4195618:0"
+        message: "crwdns4195620:0%{event}crwdne4195620:0"
+      new_events:
+        description: crwdns4195622:0crwdne4195622:0
+        email_subject: "crwdns4195624:0%{event}crwdne4195624:0"
+        message: "crwdns4195626:0%{event}crwdnd4195626:0%{group}crwdne4195626:0"
+      new_posts_user_follow:
+        description: crwdns4195628:0crwdne4195628:0
+        email_subject: crwdns4195630:0crwdne4195630:0
+        message: "crwdns4195632:0%{user}crwdnd4195632:0%{blog}crwdne4195632:0"
+      new_valutation_mine:
+        description: crwdns4195634:0crwdne4195634:0
+        email_subject:
+          one: "crwdns4195636:1%{title}crwdne4195636:1"
+          other: "crwdns4195636:5%{title}crwdnd4195636:5%{count}crwdne4195636:5"
+        message:
+          one: "crwdns4195638:1%{title}crwdne4195638:1"
+          other: "crwdns4195638:5%{title}crwdnd4195638:5%{count}crwdne4195638:5"
+      new_valutation:
+        description: crwdns4195640:0crwdne4195640:0
+        email_subject:
+          one: "crwdns4195642:1%{title}crwdne4195642:1"
+          other: "crwdns4195642:5%{title}crwdnd4195642:5%{count}crwdne4195642:5"
+        message:
+          one: "crwdns4195644:1%{title}crwdne4195644:1"
+          other: "crwdns4195644:5%{title}crwdnd4195644:5%{count}crwdne4195644:5"
+      available_author:
+        description: crwdns4195646:0crwdne4195646:0
+        email_subject:
+          one: "crwdns4195648:1%{title}crwdne4195648:1"
+          other: "crwdns4195648:5%{title}crwdnd4195648:5%{count}crwdne4195648:5"
+        message:
+          one: "crwdns4195650:1%{user}crwdnd4195650:1%{title}crwdne4195650:1"
+          other: "crwdns4195650:5%{count}crwdnd4195650:5%{title}crwdne4195650:5"
+      author_accepted:
+        description: crwdns4195652:0crwdne4195652:0
+        email_subject: "crwdns4195654:0%{title}crwdne4195654:0"
+        message: "crwdns4195656:0%{title}crwdne4195656:0"
+      new_authors:
+        description: crwdns4195658:0crwdne4195658:0
+        email_subject: "crwdns4195660:0%{title}crwdne4195660:0"
+        message: "crwdns4195662:0%{user}crwdnd4195662:0%{title}crwdne4195662:0"
+      unintegrated_contribute:
+        description: crwdns4195664:0crwdne4195664:0
+        email_subject: "crwdns4195666:0%{proposal}crwdne4195666:0"
+        message: "crwdns4195668:0%{proposal}crwdne4195668:0"
+      new_contributes:
+        description: "crwdns4195670:0crwdne4195670:0"
+        email_subject:
+          one: "crwdns4195672:1%{title}crwdne4195672:1"
+          other: "crwdns4195672:5%{title}crwdnd4195672:5%{count}crwdne4195672:5"
+        message:
+          one: "crwdns4195674:1%{name}crwdnd4195674:1%{title}crwdne4195674:1"
+          other: "crwdns4195674:5%{count}crwdnd4195674:5%{title}crwdne4195674:5"
+      text_update:
+        description: "crwdns4195676:0crwdne4195676:0"
+        email_subject:
+          one: "crwdns4195678:1%{title}crwdne4195678:1"
+          other: "crwdns4195678:5%{title}crwdnd4195678:5%{count}crwdne4195678:5"
+        message:
+          one: "crwdns4195680:1%{title}crwdne4195680:1"
+          other: "crwdns4195680:5%{title}crwdnd4195680:5%{count}crwdne4195680:5"
+      new_contributes_mine:
+        description: "crwdns4195682:0crwdne4195682:0"
+        email_subject:
+          one: "crwdns4195684:1%{title}crwdne4195684:1"
+          other: "crwdns4195684:5%{title}crwdnd4195684:5%{count}crwdne4195684:5"
+        message:
+          one: "crwdns4195686:1%{name}crwdnd4195686:1%{title}crwdne4195686:1"
+          other: "crwdns4195686:5%{count}crwdnd4195686:5%{title}crwdne4195686:5"
+      change_status:
+        description: "crwdns4195688:0crwdne4195688:0"
+        email_subject:
+          wait: "crwdns4195690:0%{title}crwdne4195690:0"
+          waiting_date: "crwdns4195692:0%{title}crwdne4195692:0"
+          in_vote: "crwdns4195694:0%{title}crwdne4195694:0"
+          abandoned: "crwdns4195696:0%{title}crwdne4195696:0"
+          rejected: "crwdns4195698:0%{title}crwdne4195698:0"
+          voted: "crwdns4195700:0%{title}crwdne4195700:0"
+          24_hours: "crwdns4195702:0%{title}crwdne4195702:0"
+          1_hour: "crwdns4195704:0%{title}crwdne4195704:0"
+          24_hours_vote: "crwdns4195706:0%{title}crwdne4195706:0"
+          1_hour_vote: "crwdns4195708:0%{title}crwdne4195708:0"
+        message:
+          waiting_date: "crwdns4195710:0%{name}crwdnd4195710:0%{title}crwdne4195710:0"
+          in_vote: "crwdns4195712:0%{title}crwdne4195712:0"
+          abandoned: "crwdns4195714:0%{title}crwdne4195714:0"
+          rejected: "crwdns4195716:0%{title}crwdne4195716:0"
+          voted: "crwdns4195718:0%{title}crwdne4195718:0"
+          24_hours: "crwdns4195720:0%{title}crwdne4195720:0"
+          1_hour: "crwdns4195722:0%{title}crwdne4195722:0"
+          24_hours_vote: "crwdns4195724:0%{title}crwdne4195724:0"
+          1_hour_vote: "crwdns4195726:0%{title}crwdne4195726:0"
+      change_status_mine:
+        description: crwdns4195728:0crwdne4195728:0
+        email_subject:
+          wait: "crwdns4195730:0%{title}crwdne4195730:0"
+          waiting_date: "crwdns4195732:0%{title}crwdne4195732:0"
+          in_vote: "crwdns4195734:0%{title}crwdne4195734:0"
+          abandoned: "crwdns4195736:0%{title}crwdne4195736:0"
+          rejected: "crwdns4195738:0%{title}crwdne4195738:0"
+          voted: "crwdns4195740:0%{title}crwdne4195740:0"
+          24_hours: "crwdns4195742:0%{title}crwdne4195742:0"
+          1_hour: "crwdns4195744:0%{title}crwdne4195744:0"
+          24_hours_vote: "crwdns4195746:0%{title}crwdne4195746:0"
+          1_hour_vote: "crwdns4195748:0%{title}crwdne4195748:0"
+        message:
+          wait: "crwdns4195750:0%{title}crwdne4195750:0"
+          waiting_date: "crwdns4195752:0%{name}crwdnd4195752:0%{title}crwdne4195752:0"
+          in_vote: "crwdns4195754:0%{title}crwdne4195754:0"
+          abandoned: "crwdns4195756:0%{title}crwdne4195756:0"
+          rejected: "crwdns4195758:0%{title}crwdne4195758:0"
+          voted: "crwdns4195760:0%{title}crwdne4195760:0"
+          24_hours: "crwdns4195762:0%{title}crwdne4195762:0"
+          1_hour: "crwdns4195764:0%{title}crwdne4195764:0"
+          24_hours_vote: "crwdns4195766:0%{title}crwdne4195766:0"
+          1_hour_vote: "crwdns4195768:0%{title}crwdne4195768:0"
+      proposal_phase_ending:
+        description: "crwdns4195770:0crwdne4195770:0"
+        email_subject:
+          24_hours: "crwdns4195772:0%{title}crwdne4195772:0"
+          1_hour: "crwdns4195774:0%{title}crwdne4195774:0"
+          24_hours_vote: "crwdns4195776:0%{title}crwdne4195776:0"
+          1_hour_vote: "crwdns4195778:0%{title}crwdne4195778:0"
+        message:
+          24_hours: "crwdns4195780:0%{title}crwdne4195780:0"
+          1_hour: "crwdns4195782:0%{title}crwdne4195782:0"
+          24_hours_vote: "crwdns4195784:0%{title}crwdne4195784:0"
+          1_hour_vote: "crwdns4195786:0%{title}crwdne4195786:0"
+      new_posts_group_follow:
+        description: crwdns4195788:0crwdne4195788:0
+        email_subject: crwdns4195790:0crwdne4195790:0
+      new_posts_group:
+        description: crwdns4195792:0crwdne4195792:0
+        email_subject: crwdns4195794:0crwdne4195794:0
+        message: "crwdns4195796:0%{user}crwdnd4195796:0%{group}crwdne4195796:0"
+      new_public_proposals:
+        description: crwdns4195798:0crwdne4195798:0
+        email_subject: "crwdns4195800:0%{proposal}crwdne4195800:0"
+        message: "crwdns4195802:0%{proposal}crwdne4195802:0"
+      new_proposals:
+        description: crwdns4195804:0crwdne4195804:0
+        email_subject: "crwdns4195806:0%{proposal}crwdne4195806:0"
+        message: "crwdns4195808:0%{proposal}crwdnd4195808:0%{group}crwdne4195808:0"
+      new_participation_request:
+        description: crwdns4195810:0crwdne4195810:0
+        email_subject:
+          one: "crwdns4195812:1crwdne4195812:1"
+          other: "crwdns4195812:5%{count}crwdne4195812:5"
+        message:
+          one: "crwdns4195814:1%{user}crwdnd4195814:1%{group}crwdne4195814:1"
+          other: "crwdns4195814:5%{count}crwdnd4195814:5%{group}crwdne4195814:5"
+      new_blog_comment:
+        description: crwdns4195816:0crwdne4195816:0
+        email_subject:
+          one: "crwdns4195818:1crwdne4195818:1"
+          other: "crwdns4195818:5%{count}crwdne4195818:5"
+        message:
+          one: "crwdns4195820:1%{user}crwdnd4195820:1%{title}crwdne4195820:1"
+          other: "crwdns4195820:5%{count}crwdnd4195820:5%{title}crwdne4195820:5"
+      new_forum_topic:
+        message:
+          one: "crwdns4195822:1%{topic_subject}crwdnd4195822:1%{group_name}crwdne4195822:1"
+          other: "crwdns4195822:5%{count}crwdnd4195822:5%{group_name}crwdne4195822:5"
+        description: crwdns4195824:0crwdne4195824:0
+        email_subject: "crwdns4195826:0%{topic_subject}crwdnd4195826:0%{group_name}crwdne4195826:0"
+      new_comments_mine:
+        description: crwdns4195828:0crwdne4195828:0
+        email_subject: crwdns4195830:0crwdne4195830:0
+        message: "crwdns4195832:0%{name}crwdnd4195832:0%{title}crwdne4195832:0"
+      new_comments:
+        description: crwdns4195834:0crwdne4195834:0
+        email_subject: "crwdns4195836:0%{title}crwdne4195836:0"
+        message: "crwdns4195838:0%{name}crwdnd4195838:0%{title}crwdne4195838:0"
+      contribute_update:
+        description: crwdns4195840:0crwdne4195840:0
+        email_subject: "crwdns4195842:0%{title}crwdne4195842:0"
+        message: "crwdns4195844:0%{name}crwdnd4195844:0%{title}crwdne4195844:0"
+    proposal_categories:
+      no_category:
+        description: crwdns4195846:0crwdne4195846:0
+      education:
+        description: crwdns4195848:0crwdne4195848:0
+      health:
+        description: crwdns4195850:0crwdne4195850:0
+      information:
+        description: crwdns4195852:0crwdne4195852:0
+      commerce:
+        description: crwdns4195854:0crwdne4195854:0
+      work:
+        description: crwdns4195856:0crwdne4195856:0
+      security:
+        description: crwdns4195858:0crwdne4195858:0
+      world:
+        description: crwdns4195860:0crwdne4195860:0
+      minorities:
+        description: crwdns4195862:0crwdne4195862:0
+      ethics:
+        description: crwdns4195864:0crwdne4195864:0
+      sexuality:
+        description: crwdns4195866:0crwdne4195866:0
+      culture:
+        description: crwdns4195868:0crwdne4195868:0
+      entertainment:
+        description: crwdns4195870:0crwdne4195870:0
+      organization:
+        description: crwdns4195872:0crwdne4195872:0
+      agricolture:
+        description: crwdns4195874:0crwdne4195874:0
+      territory:
+        description: crwdns4195876:0crwdne4195876:0
+      mobility:
+        description: crwdns4195878:0crwdne4195878:0
+      energy:
+        description: crwdns4195880:0crwdne4195880:0
+      industry:
+        description: crwdns4195882:0crwdne4195882:0
+      democracy:
+        description: crwdns4195884:0crwdne4195884:0
+    vote_types:
+      favorable:
+        description: crwdns4195886:0crwdne4195886:0
+      neutral:
+        description: crwdns4195888:0crwdne4195888:0
+      dissenting:
+        description: crwdns4195890:0crwdne4195890:0
