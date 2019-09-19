@@ -4,9 +4,9 @@ ru-RU:
       - Лет
       - Месяцев
       - Недель
-      - Дней
+      - дня(ей)
       - Часов
-      - Минут
+      - минут
       - Секунд
     labelsSingular:
       - Год
@@ -17,15 +17,15 @@ ru-RU:
       - Минута
       - Секунда
     compactLabelsPlural:
-      - г
-      - м
-      - н
-      - д
+      - 'г'
+      - 'м'
+      - 'н'
+      - 'д'
     compactLabelsSingular:
-      - г
-      - м
-      - н
-      - д
+      - 'г'
+      - 'м'
+      - 'н'
+      - 'д'
   calendar:
     monthNames:
       - Январь
@@ -58,107 +58,143 @@ ru-RU:
       - Понедельник
       - Вторник
       - Среда
-    today: Сегодня
-    month: месяц
-    week: неделя
-    day: день
+      - Thursday
+      - Friday
+      - Saturday
+    dayNamesShort:
+      - Sun
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+    today: 'Сегодня'
+    month: 'месяц'
+    week: 'неделя'
+    day: 'день'
     firstDay: 0
     timeFormat: 'h:mm TT{ - [ddd] [dd] h:mm TT}'
+    changed: 'Changed!'
+    eventsFormat: 'h(:mm)t'
   date:
+    order:
+      - :day
+      - :month
+      - :year
     formats:
-      short: '%b %d'
-      long: '%d %B %Y'
+      default: "%d-%m-%Y"
+      short: "%b %d"
+      long: "%d %B %Y"
   time:
     formats:
-      default: '%d %b %Y at %I:%M %p'
-      long: '%A %d %B %Y at %I:%M %p'
-      long_date: '%A %d %B %Y'
-      long_date_time: '%A %d %B %Y at %I:%M %p'
-      from_long_date_time: 'С %A %d %B %Y в %I:%M %p'
-      until_long_date_time: 'По %A %d %B %Y в %I:%M %p'
-      short: '%d %b %Y'
-      two_rows: '%d %b %Y <br/> %I:%M %p'
-      weekday: '%a at %I:%M %p'
-      month: '%B'
-      dayandmonth: '%d/%m'
-      hour: '%I:%M %p'
-      yesterday_at: 'вчера в %I:%M %p'
-      textfield: '%d/%m/%Y %I:%M %p'
-      datepicker: '%Y-%m-%d'
-      datetimepicker: '%Y-%m-%d %H:%M'
-    am: утра
-    pm: вечера
+      default: "%d %b %Y at %I:%M %p"
+      long: "%A %d %B %Y at %I:%M %p"
+      long_date: "%A %d %B %Y"
+      long_date_time: "%A %d %B %Y at %I:%M %p"
+      from_long_date_time: "С %A %d %B %Y в %I:%M %p"
+      until_long_date_time: "По %A %d %B %Y в %I:%M %p"
+      from_long_date: "From %A %d %B %Y"
+      until_long_date: "To %A %d %B %Y"
+      short: "%d %b %Y"
+      two_rows: "%d %b %Y <br/> %I:%M %p"
+      weekday: "%a at %I:%M %p"
+      month: "%B"
+      dayandmonth: "%d/%m"
+      hour: "%I:%M %p"
+      yesterday_at: "вчера в %I:%M %p"
+      textfield: "%d/%m/%Y %I:%M %p"
+      datepicker: "%Y-%m-%d"
+      datetimepicker: "%Y-%m-%d %H:%M"
+    am: "утра"
+    pm: "вечера"
     left:
       seconds:
-        one: 1 секунда
-        few: '%{count} секунды'
-        other: '%{count} секунд'
+        one: "1 second"
+        few: "%{count} seconds"
+        many: "%{count} seconds"
+        other: "%{count} seconds"
       minutes:
-        one: 1 минута
-        few: '%{count} минуты'
-        other: '%{count} минут'
+        one: "1 minute"
+        few: "%{count} minutes"
+        many: "%{count} minutes"
+        other: "%{count} minutes"
       hours:
-        one: 1 час
-        few: '%{count} часа'
-        other: '%{count} часов'
+        one: "1 hour"
+        few: "%{count} hours"
+        many: "%{count} hours"
+        other: "%{count} hours"
       days:
-        one: 1 день
-        few: '%{count} дня'
-        other: '%{count} дней'
+        one: "1 day"
+        few: "%{count} days"
+        many: "%{count} days"
+        other: "%{count} days"
       months:
-        one: 1 месяц
-        few: '%{count} месяца'
-        other: '%{count} месяцев'
+        one: "1 month"
+        few: "%{count} months"
+        many: "%{count} months"
+        other: "%{count} months"
   datetime:
-    added_on: '%{date}'
+    added_on: "%{date}"
     distance_in_words:
       about_x_hours:
-        one: около 1 часа назад
-        few: 'около %{count} часов назад'
-        other: 'около %{count} часов назад'
+        one: about 1 hour ago
+        few: about %{count} hours ago
+        many: about %{count} hours ago
+        other: about %{count} hours ago
       about_x_months:
-        one: около месяца назад
-        few: 'около %{count} месяцев назад'
-        other: 'около %{count} месяцев назад'
+        one: about 1 month ago
+        few: about %{count} months ago
+        many: about %{count} months ago
+        other: about %{count} months ago
       about_x_years:
-        one: около года назад
-        few: 'около %{count} лет назад'
-        other: 'около %{count} лет назад'
+        one: about 1 year ago
+        few: about %{count} years ago
+        many: about %{count} years ago
+        other: about %{count} years ago
       almost_x_years:
-        one: почти год назад
-        few: 'почти %{count} года назад'
-        other: 'почти %{count} лет назад'
+        one: almost 1 year ago
+        few: almost %{count} years ago
+        many: almost %{count} years ago
+        other: almost %{count} years ago
       half_a_minute: полминуты назад
       less_than_x_minutes:
-        one: менее минуты назад
-        few: 'менее %{count} минут назад'
-        other: 'менее %{count} минут назад'
+        one: less than 1 minute ago
+        few: less than %{count} minutes ago
+        many: less than %{count} minutes ago
+        other: less than %{count} minutes ago
       less_than_x_seconds:
-        one: меньше секунды назад
-        few: 'меньше, чем %{count} секунды назад'
-        other: 'меньше, чем %{count} секунд назад'
+        one: less than 1 second ago
+        few: less than %{count} seconds ago
+        many: less than %{count} seconds ago
+        other: less than %{count} seconds ago
       over_x_years:
-        one: более чем год назад
-        few: 'больше, чем %{count} года назад'
-        other: 'больше, чем %{count} лет назад'
+        one: more than 1 year ago
+        few: more than %{count} years ago
+        many: more than %{count} years ago
+        other: more than %{count} years ago
       x_days:
-        one: день назад
-        few: ! '%{count} дня назад'
-        other: ! '%{count} дней назад'
+        one: 1 day ago
+        few: ! '%{count} days ago'
+        many: ! '%{count} days ago'
+        other: ! '%{count} days ago'
       x_minutes:
-        one: 1 минуту назад
-        few: ! '%{count} минуты назад'
-        other: ! '%{count} минут назад'
+        one: 1 minute ago
+        few: ! '%{count} minutes ago'
+        many: ! '%{count} minutes ago'
+        other: ! '%{count} minutes ago'
       x_months:
-        one: месяц назад
-        few: ! '%{count} месяца назад'
-        other: ! '%{count} месяцев назад'
+        one: 1 month ago
+        few: ! '%{count} months ago'
+        many: ! '%{count} months ago'
+        other: ! '%{count} months ago'
       x_seconds:
-        one: секунду назад
-        few: ! '%{count} секунды назад'
-        other: ! '%{count} секунд назад'
+        one: "1 second ago"
+        few: ! "%{count} seconds ago"
+        many: ! "%{count} seconds ago"
+        other: ! "%{count} seconds ago"
   label:
-    from: от
-    to: до
-  countdown: '{m<}{mn} {ml} ago{m>} {s<}just now{s>}'
-  countdown2: '{y<}{yn} {yl}{y>} {o<}{on} {ol}{o>} {d<}{dn} {dl}{d>} {h<}{hn} {hl}{h>} {m<}{mn} {ml}{m>} {s<}несколько секунд{s>}'
+    from: "от"
+    to: "до"
+  countdown: "{m<}{mn} {ml} ago{m>} {s<}just now{s>}"
+  countdown2: "{y<}{yn} {yl}{y>} {o<}{on} {ol}{o>} {d<}{dn} {dl}{d>} {h<}{hn} {hl}{h>} {m<}{mn} {ml}{m>} {s<}несколько секунд{s>}"
