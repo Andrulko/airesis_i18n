@@ -1,0 +1,171 @@
+zu-ZA:
+  home:
+    intro:
+      title: "crwdns4195322:0crwdne4195322:0"
+      description: "crwdns4195324:0crwdne4195324:0"
+      paragraph_1:
+        title: "crwdns4195326:0crwdne4195326:0"
+        content_html: |
+          crwdns4195328:0crwdne4195328:0
+      paragraph_3:
+        title: "crwdns4195330:0crwdne4195330:0"
+        content_html: |
+          crwdns4195332:0crwdne4195332:0
+      paragraph_4:
+        title: "crwdns4195334:0crwdne4195334:0"
+        content_html: |
+          crwdns4195336:0crwdne4195336:0
+      paragraph_5:
+        title: "crwdns4195338:0crwdne4195338:0"
+        content_html: |
+          crwdns4195340:0crwdne4195340:0
+      paragraph_6:
+        title: "crwdns4195342:0crwdne4195342:0"
+        content_html: |
+          crwdns4195344:0crwdne4195344:0
+      paragraph_7:
+        title: "crwdns4195346:0crwdne4195346:0"
+        content_html: |
+          crwdns4195348:0crwdne4195348:0
+      paragraph_8:
+        title: "crwdns4195350:0crwdne4195350:0"
+        content_html: |
+          crwdns4195352:0crwdne4195352:0
+      paragraph_9:
+        title: "crwdns4195354:0crwdne4195354:0"
+        content_html: |
+          crwdns4195356:0crwdne4195356:0
+      paragraph_10:
+        title: "crwdns4195358:0crwdne4195358:0"
+        content_html: |
+          crwdns4195360:0crwdne4195360:0
+      paragraph_11:
+        title: "crwdns4195362:0crwdne4195362:0"
+        content_html: |
+          crwdns4195364:0crwdne4195364:0
+      paragraph_12:
+        title: "crwdns4195366:0crwdne4195366:0"
+        content_html: |
+          crwdns4195368:0crwdne4195368:0
+    whatis:
+      title: "crwdns4195370:0crwdne4195370:0"
+      description: "crwdns4195372:0crwdne4195372:0"
+      paragraph_1:
+        title: "crwdns4195374:0crwdne4195374:0"
+        content_html: |
+          crwdns4195376:0crwdne4195376:0
+      paragraph_2:
+        title: "crwdns4195378:0crwdne4195378:0"
+        content_html: |
+          crwdns4195380:0%{groups}crwdne4195380:0
+      paragraph_3:
+        title: "crwdns4195382:0crwdne4195382:0"
+        content_html: |
+          crwdns4195384:0crwdne4195384:0
+      paragraph_4:
+        title: "crwdns4195386:0crwdne4195386:0"
+        content_html: |
+          crwdns4195388:0%{users}crwdnd4195388:0%{proposals}crwdne4195388:0
+      paragraph_5:
+        title: "crwdns4195390:0crwdne4195390:0"
+        content_html: |
+          crwdns4195392:0crwdne4195392:0
+      paragraph_6:
+        title: "crwdns4195394:0crwdne4195394:0"
+        content_html: |
+          crwdns4195396:0crwdne4195396:0
+      paragraph_7:
+        title: "crwdns4195398:0crwdne4195398:0"
+        content_html: |
+          crwdns4195400:0%{topics}crwdne4195400:0
+      paragraph_8:
+        title: "crwdns4195402:0crwdne4195402:0"
+        content_html: |
+          crwdns4195404:0%{intro_page}crwdne4195404:0
+        link: 'crwdns4195406:0crwdne4195406:0'
+    press:
+      title: "crwdns4195408:0crwdne4195408:0"
+    roadmap:
+      paragraph1:
+        title: "crwdns4195410:0crwdne4195410:0"
+        content_html: |
+          crwdns4195412:0crwdne4195412:0
+      paragraph2:
+        title: "crwdns4195414:0crwdne4195414:0"
+        content_html: |
+          crwdns4195416:0crwdne4195416:0
+      title: "crwdns4195418:0crwdne4195418:0"
+      description: "crwdns4195420:0crwdne4195420:0"
+    helpus:
+      paragraph1:
+        title: "crwdns4195422:0crwdne4195422:0"
+        content_html: |
+          crwdns4195424:0crwdne4195424:0
+      paragraph4:
+        content_html: |
+          crwdns4195426:0%{mail}crwdne4195426:0
+      paragraph5:
+        title: "crwdns4195428:0crwdne4195428:0"
+      title: "crwdns4195430:0crwdne4195430:0"
+      description: "crwdns4195432:0crwdne4195432:0"
+    linkback:
+      paragraph1:
+        title: "crwdns4195434:0crwdne4195434:0"
+        content_html: |
+          crwdns4195436:0crwdne4195436:0
+      paragraph2:
+        title: "crwdns4195438:0crwdne4195438:0"
+      paragraph3:
+        title: "crwdns4195440:0crwdne4195440:0"
+        content_html: |
+          crwdns4195442:0crwdne4195442:0
+    tags:
+      title: "crwdns4195444:0crwdne4195444:0"
+      description: "crwdns4195446:0crwdne4195446:0"
+    engage:
+      title: "crwdns4195448:0crwdne4195448:0"
+      description: "crwdns4195450:0crwdne4195450:0"
+      nav:
+        opensource: "crwdns4195452:0crwdne4195452:0"
+        participate: "crwdns4195454:0crwdne4195454:0"
+        banner: "crwdns4195456:0crwdne4195456:0"
+      paragraph1:
+        title: "crwdns4195458:0crwdne4195458:0"
+        description_html: |
+          crwdns4195460:0crwdne4195460:0
+      paragraph2:
+        title: "crwdns4195462:0crwdne4195462:0"
+        description_html: |
+          crwdns4195464:0%{chisiamo}crwdnd4195464:0%{form}crwdnd4195464:0%{email}crwdnd4195464:0%{cell}crwdne4195464:0
+      developer:
+        title: "crwdns4195466:0crwdne4195466:0"
+        description_html: |
+          crwdns4195468:0%{chisiamo}crwdne4195468:0
+      analyst:
+        title: "crwdns4195470:0crwdne4195470:0"
+        description_html: |
+          crwdns4195472:0crwdne4195472:0
+      first_lev_tester:
+        title: "crwdns4195474:0crwdne4195474:0"
+        description_html: |
+          crwdns4195476:0crwdne4195476:0
+      sec_lev_tester:
+        title: "crwdns4195478:0crwdne4195478:0"
+        description_html: |
+          crwdns4195480:0crwdne4195480:0
+      graphic:
+        title: "crwdns4195482:0crwdne4195482:0"
+        description_html: |
+          crwdns4195484:0crwdne4195484:0
+      recruiter:
+        title: "crwdns4195486:0crwdne4195486:0"
+        description_html: |
+          crwdns4195488:0crwdne4195488:0
+      communication:
+        title: "crwdns4195490:0crwdne4195490:0"
+        description_html: |
+          crwdns4195492:0crwdne4195492:0
+      i18n:
+        title: "crwdns4195494:0crwdne4195494:0"
+        description_html: |
+          crwdns4195496:0crwdne4195496:0
