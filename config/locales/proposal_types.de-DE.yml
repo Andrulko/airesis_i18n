@@ -44,20 +44,20 @@ de-DE:
           simple: "Solution <span class=\"num\">%{num}</span>:"
       new:
         standard:
-          problems_title: "Probleme"
+          problems_title: "Problems"
           problems_question: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
           problems_title_label: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
-          objectives_title: "Ziele"
+          objectives_title: "Objectives"
           step_4_title: "You can enter a text of the proposal or write it later based on the input received"
           solution:
-            description: "Beschreibung der Lösung"
+            description: "Description of the solution"
             time: "Times"
             subject: "Supervisor"
             resources: "Necessary resources and how to retrieve them"
-            aspects: "Ethische, ökologische und soziale Aspekte"
-            documents: "Dokumentation"
-            pros: "Vorteile"
-            cons: "Nachteile"
+            aspects: "Ethical, environmental, social aspects"
+            documents: "Documentation"
+            pros: "Pros"
+            cons: "Cons"
             title: "Solution 1"
           suggestion_html: |
             <div><b>Example:</b></div>
@@ -91,7 +91,7 @@ de-DE:
             <div>The town of  Silverham has a conference room that nowadays is used only by the Mayor's "fellows". It is time to choose an impartial procedure to grant all citizens and public associations the right to book the room for public events.</div>
           solution:
             title: "Solution 1"
-            article: "Artikel %{num}"
+            article: "Article %{num}"
             pros: "Pros"
             cons: "Cons"
           paragraph:
@@ -118,7 +118,7 @@ de-DE:
           solution:
             title: "Solution 1"
             maintitle: "Title"
-            subtitle: "Untertitel"
+            subtitle: "Subtitle"
             incipit: "Incipit"
             body: "Body"
             conclusion: "Conclusions"
@@ -137,7 +137,7 @@ de-DE:
               deep: "Insert links, contacts, or additional information for those who wish to deepen the news."
         estimate:
           problems_title_label: "What goods or services you wish to purchase? To solve which problems?"
-          problems_title: "Probleme"
+          problems_title: "Problems"
           problems_question: "What goods or services you wish to purchase? To solve which problems?"
           suggestion_html: |
             <div><b>Example:</b></div>
@@ -174,7 +174,7 @@ de-DE:
             <div>Ordinary co-ordination meeting to exchange experiences with the referents of the local committees for the biological agriculture of Italy.</div>
           solution:
             title: "Item"
-            priorities: "Items priorities"
+            priorities: "Item priority"
             links: "Insights links"
             description: "Description"
             estimated_time: "Required discussion time"
@@ -199,7 +199,7 @@ de-DE:
             <div>Organize a low-cost rock concert.</div>
             <div>In our town there are a lot of young bands that cannot show off and improve their talent, because of a lack of space. In addition to this, there are few events promoted by our Municipality for the next summer, because of a lack of resources.</div>
           solution:
-            title: "Titel"
+            title: "Solution 1"
             maintitle: "Title"
             description: "Description of the solution"
             program: "Date, time and plan"
@@ -228,7 +228,7 @@ de-DE:
           suggestion_html: |
             <div><b>Example:</b></div>
             <div>Elect the new referent for the communication group.</div>
-            <div>The communication group has just been established and it is necessary to elect a referent. All the people that have benn members of the group for at least 5 months can be nominated.</div>
+            <div>The communication group has just been established and it is necessary to elect a referent. All the people that have been members of the group for at least 5 months can be nominated.</div>
           solution:
             name: "Candidate Name and Surname"
             data: "Personal data"
@@ -250,7 +250,7 @@ de-DE:
           problems_title_label: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
           problems_question: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
           solution:
-            description: "Beschreibung"
+            description: "Description"
             title: "Solution 1"
           question:
             solution:
