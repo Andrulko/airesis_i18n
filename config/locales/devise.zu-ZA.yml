@@ -1,84 +1,84 @@
 zu-ZA:
   errors:
     messages:
-      expired: "crwdns19006:0crwdne19006:0"
-      not_found: "crwdns19008:0crwdne19008:0"
-      already_confirmed: "crwdns19010:0crwdne19010:0"
-      not_locked: "crwdns19012:0crwdne19012:0"
+      expired: "crwdns247460:0crwdne247460:0"
+      not_found: "crwdns247462:0crwdne247462:0"
+      already_confirmed: "crwdns247464:0crwdne247464:0"
+      not_locked: "crwdns247466:0crwdne247466:0"
       not_saved:
-        one: "crwdns19014:1%{resource}crwdne19014:1"
-        other: "crwdns19014:5%{count}crwdnd19014:5%{resource}crwdne19014:5"
+        one: "crwdns247468:1%{resource}crwdne247468:1"
+        other: "crwdns247468:5%{count}crwdnd247468:5%{resource}crwdne247468:5"
   devise:
     failure:
-      locked: 'crwdns19016:0crwdne19016:0'
-      invalid: 'crwdns19018:0crwdne19018:0'
-      invalid_token: 'crwdns19020:0crwdne19020:0'
-      timeout: 'crwdns19022:0crwdne19022:0'
-      inactive: 'crwdns19024:0crwdne19024:0'
-      already_authenticated: 'crwdns19026:0crwdne19026:0'
-      unauthenticated: 'crwdns19028:0crwdne19028:0'
-      unconfirmed: "crwdns19030:0crwdne19030:0"
+      locked: 'crwdns247470:0crwdne247470:0'
+      invalid: 'crwdns247472:0crwdne247472:0'
+      invalid_token: 'crwdns247474:0crwdne247474:0'
+      timeout: 'crwdns247476:0crwdne247476:0'
+      inactive: 'crwdns247478:0crwdne247478:0'
+      already_authenticated: 'crwdns247480:0crwdne247480:0'
+      unauthenticated: 'crwdns247482:0crwdne247482:0'
+      unconfirmed: "crwdns247484:0crwdne247484:0"
       user:
-        invalid: 'crwdns19032:0crwdne19032:0'
-        not_found_in_database: 'crwdns19034:0crwdne19034:0'
+        invalid: 'crwdns247486:0crwdne247486:0'
+        not_found_in_database: 'crwdns247488:0crwdne247488:0'
     sessions:
-      signed_in: 'crwdns19036:0crwdne19036:0'
-      signed_out: 'crwdns19038:0crwdne19038:0'
+      signed_in: 'crwdns247490:0crwdne247490:0'
+      signed_out: 'crwdns247492:0crwdne247492:0'
       user:
-        signed_out: 'crwdns19040:0crwdne19040:0'
-        signed_in: 'crwdns19042:0crwdne19042:0'
-        signed_up: 'crwdns19044:0crwdne19044:0'
+        signed_out: 'crwdns247494:0crwdne247494:0'
+        signed_in: 'crwdns247496:0crwdne247496:0'
+        signed_up: 'crwdns247498:0crwdne247498:0'
     passwords:
-      send_instructions: 'crwdns19046:0crwdne19046:0'
-      updated: 'crwdns19048:0crwdne19048:0'
-      updated_not_active: 'crwdns19050:0crwdne19050:0'
-      send_paranoid_instructions: "crwdns19052:0crwdne19052:0"
+      send_instructions: 'crwdns247500:0crwdne247500:0'
+      updated: 'crwdns247502:0crwdne247502:0'
+      updated_not_active: 'crwdns247504:0crwdne247504:0'
+      send_paranoid_instructions: "crwdns247506:0crwdne247506:0"
     confirmations:
-      send_instructions: 'crwdns19054:0crwdne19054:0'
-      send_paranoid_instructions: 'crwdns19056:0crwdne19056:0'
-      confirmed: 'crwdns19058:0crwdne19058:0'
+      send_instructions: 'crwdns247508:0crwdne247508:0'
+      send_paranoid_instructions: 'crwdns247510:0crwdne247510:0'
+      confirmed: 'crwdns247512:0crwdne247512:0'
       user:
-        confirmed: 'crwdns19060:0crwdne19060:0'
-        send_instructions: 'crwdns19062:0crwdne19062:0'
+        confirmed: 'crwdns247514:0crwdne247514:0'
+        send_instructions: 'crwdns247516:0crwdne247516:0'
     registrations:
-      signed_up: 'crwdns19064:0crwdne19064:0'
-      signed_up_but_unconfirmed: 'crwdns19066:0crwdne19066:0'
-      signed_up_but_inactive: 'crwdns19068:0crwdne19068:0'
-      signed_up_but_locked: 'crwdns19070:0crwdne19070:0'
-      updated: 'crwdns19072:0crwdne19072:0'
-      update_needs_confirmation: "crwdns19074:0crwdne19074:0"
-      destroyed: 'crwdns19076:0crwdne19076:0'
+      signed_up: 'crwdns247518:0crwdne247518:0'
+      signed_up_but_unconfirmed: 'crwdns247520:0crwdne247520:0'
+      signed_up_but_inactive: 'crwdns247522:0crwdne247522:0'
+      signed_up_but_locked: 'crwdns247524:0crwdne247524:0'
+      updated: 'crwdns247526:0crwdne247526:0'
+      update_needs_confirmation: "crwdns247528:0crwdne247528:0"
+      destroyed: 'crwdns247530:0crwdne247530:0'
       user:
-        inactive_signed_up: 'crwdns19078:0crwdne19078:0'
-        signed_up_but_unconfirmed: 'crwdns19080:0crwdne19080:0'
+        inactive_signed_up: 'crwdns247532:0crwdne247532:0'
+        signed_up_but_unconfirmed: 'crwdns247534:0crwdne247534:0'
     unlocks:
-      send_instructions: 'crwdns19082:0crwdne19082:0'
-      unlocked: 'crwdns19084:0crwdne19084:0'
-      send_paranoid_instructions: 'crwdns19086:0crwdne19086:0'
+      send_instructions: 'crwdns247536:0crwdne247536:0'
+      unlocked: 'crwdns247538:0crwdne247538:0'
+      send_paranoid_instructions: 'crwdns247540:0crwdne247540:0'
     omniauth_callbacks:
-      success: 'crwdns19088:0crwdne19088:0'
-      failure: 'crwdns19090:0%{kind}crwdnd19090:0%{reason}crwdne19090:0'
-      creation_failure: "crwdns19092:0%{provider}crwdne19092:0"
-      join_success: "crwdns19094:0%{provider}crwdne19094:0"
-      join_failure: "crwdns19096:0%{provider}crwdne19096:0"
-      certified_email_taken: "crwdns19098:0crwdne19098:0"
-      already_certified: "crwdns19100:0crwdne19100:0"
-      account_not_verified: "crwdns19102:0%{provider}crwdnd19102:0%{provider}crwdne19102:0"
+      success: 'crwdns247542:0crwdne247542:0'
+      failure: 'crwdns247544:0%{kind}crwdnd247544:0%{reason}crwdne247544:0'
+      creation_failure: "crwdns247546:0%{provider}crwdne247546:0"
+      join_success: "crwdns247548:0%{provider}crwdne247548:0"
+      join_failure: "crwdns247550:0%{provider}crwdne247550:0"
+      certified_email_taken: "crwdns247552:0crwdne247552:0"
+      already_certified: "crwdns247554:0crwdne247554:0"
+      account_not_verified: "crwdns247556:0%{provider}crwdnd247556:0%{provider}crwdne247556:0"
     mailer:
       confirmation_instructions:
-        subject: 'crwdns19104:0crwdne19104:0'
-        welcome: "crwdns19106:0%{app_name}crwdnd19106:0%{user}crwdne19106:0"
-        follow_link: "crwdns19108:0crwdne19108:0"
-        confirm_account: "crwdns19110:0crwdne19110:0"
-        follow_link_2: "crwdns19112:0crwdne19112:0"
-        access_by_email: "crwdns19114:0%{app_name}crwdne19114:0"
-        contact_assistance: "crwdns19116:0%{mail}crwdne19116:0"
+        subject: 'crwdns247558:0crwdne247558:0'
+        welcome: "crwdns247560:0%{app_name}crwdnd247560:0%{user}crwdne247560:0"
+        follow_link: "crwdns247562:0crwdne247562:0"
+        confirm_account: "crwdns247564:0crwdne247564:0"
+        follow_link_2: "crwdns247566:0crwdne247566:0"
+        access_by_email: "crwdns247568:0%{app_name}crwdne247568:0"
+        contact_assistance: "crwdns247570:0%{mail}crwdne247570:0"
       reset_password_instructions:
-        subject: 'crwdns19118:0crwdne19118:0'
-        hi_user: "crwdns19120:0%{user}crwdne19120:0"
-        follow_link: "crwdns19122:0crwdne19122:0"
-        change_password: "crwdns19124:0crwdne19124:0"
-        ignore: "crwdns19126:0crwdne19126:0"
-        password_will_not_change: "crwdns19128:0crwdne19128:0"
+        subject: 'crwdns247572:0crwdne247572:0'
+        hi_user: "crwdns247574:0%{user}crwdne247574:0"
+        follow_link: "crwdns247576:0crwdne247576:0"
+        change_password: "crwdns247578:0crwdne247578:0"
+        ignore: "crwdns247580:0crwdne247580:0"
+        password_will_not_change: "crwdns247582:0crwdne247582:0"
       unlock_instructions:
-        subject: 'crwdns19130:0crwdne19130:0'
+        subject: 'crwdns247584:0crwdne247584:0'
