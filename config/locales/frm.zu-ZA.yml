@@ -1,245 +1,245 @@
 zu-ZA:
   frm:
     general:
-      forum: crwdns19132:0crwdne19132:0
-      topics: crwdns19134:0crwdne19134:0
-      topic: crwdns19136:0crwdne19136:0
-      posts: crwdns19138:0crwdne19138:0
+      forum: crwdns247586:0crwdne247586:0
+      topics: crwdns247588:0crwdne247588:0
+      topic: crwdns247590:0crwdne247590:0
+      posts: crwdns247592:0crwdne247592:0
       posts_count:
-        one: crwdns19140:1crwdne19140:1
-        other: "crwdns19140:5%{count}crwdne19140:5"
-      flagged_for_spam: crwdns19142:0crwdne19142:0
-      cannot_create_topic: crwdns19144:0crwdne19144:0
-      cannot_create_post: crwdns19146:0crwdne19146:0
-    access_denied: "crwdns19148:0crwdne19148:0"
+        one: crwdns247594:1crwdne247594:1
+        other: "crwdns247594:5%{count}crwdne247594:5"
+      flagged_for_spam: crwdns247596:0crwdne247596:0
+      cannot_create_topic: crwdns247598:0crwdne247598:0
+      cannot_create_post: crwdns247600:0crwdne247600:0
+    access_denied: "crwdns247602:0crwdne247602:0"
     admin:
-      area: crwdns19150:0crwdne19150:0
-      back_to_admin: "crwdns19152:0crwdne19152:0"
-      back_to_forums: "crwdns19154:0crwdne19154:0"
-      back_to_groups: "crwdns19156:0crwdne19156:0"
+      area: crwdns247604:0crwdne247604:0
+      back_to_admin: "crwdns247606:0crwdne247606:0"
+      back_to_forums: "crwdns247608:0crwdne247608:0"
+      back_to_groups: "crwdns247610:0crwdne247610:0"
       forum:
-        moderator_groups: crwdns19158:0crwdne19158:0
-        index: crwdns19160:0crwdne19160:0
-        new: crwdns19162:0crwdne19162:0
-        new_link: crwdns19164:0crwdne19164:0
-        deleted: crwdns19166:0crwdne19166:0
-        created: crwdns19168:0crwdne19168:0
-        not_created: crwdns19170:0crwdne19170:0
-        updated: crwdns19172:0crwdne19172:0
-        not_updated: crwdns19174:0crwdne19174:0
+        moderator_groups: crwdns247612:0crwdne247612:0
+        index: crwdns247614:0crwdne247614:0
+        new: crwdns247616:0crwdne247616:0
+        new_link: crwdns247618:0crwdne247618:0
+        deleted: crwdns247620:0crwdne247620:0
+        created: crwdns247622:0crwdne247622:0
+        not_created: crwdns247624:0crwdne247624:0
+        updated: crwdns247626:0crwdne247626:0
+        not_updated: crwdns247628:0crwdne247628:0
       forums:
-        edit: crwdns19176:0crwdne19176:0
-        delete: crwdns19178:0crwdne19178:0
-        category: crwdns19180:0crwdne19180:0
-        delete_confirm: crwdns19182:0crwdne19182:0
+        edit: crwdns247630:0crwdne247630:0
+        delete: crwdns247632:0crwdne247632:0
+        category: crwdns247634:0crwdne247634:0
+        delete_confirm: crwdns247636:0crwdne247636:0
         index:
-          last_post: crwdns19184:0crwdne19184:0
-          none: crwdns19186:0crwdne19186:0
-          moderators: crwdns19188:0crwdne19188:0
-          no_category: crwdns19190:0crwdne19190:0
-        default_private: "crwdns19192:0crwdne19192:0"
-        default_public: "crwdns19194:0crwdne19194:0"
-        default_private_description: "crwdns19196:0crwdne19196:0"
-        default_public_description: "crwdns19198:0crwdne19198:0"
+          last_post: crwdns247638:0crwdne247638:0
+          none: crwdns247640:0crwdne247640:0
+          moderators: crwdns247642:0crwdne247642:0
+          no_category: crwdns247644:0crwdne247644:0
+        default_private: "crwdns247646:0crwdne247646:0"
+        default_public: "crwdns247648:0crwdne247648:0"
+        default_private_description: "crwdns247650:0crwdne247650:0"
+        default_public_description: "crwdns247652:0crwdne247652:0"
       mod:
-        index: crwdns19200:0crwdne19200:0
-        new: crwdns19202:0crwdne19202:0
-        created: crwdns19204:0crwdne19204:0
-        not_created: crwdns19206:0crwdne19206:0
-        deleted: crwdns19208:0crwdne19208:0
-        members: "crwdns19210:0%{group}crwdne19210:0"
+        index: crwdns247654:0crwdne247654:0
+        new: crwdns247656:0crwdne247656:0
+        created: crwdns247658:0crwdne247658:0
+        not_created: crwdns247660:0crwdne247660:0
+        deleted: crwdns247662:0crwdne247662:0
+        members: "crwdns247664:0%{group}crwdne247664:0"
       mods:
         show:
-          add_member: crwdns19212:0crwdne19212:0
-          add_a_new_member: "crwdns19214:0crwdne19214:0"
-          current_members: "crwdns19216:0crwdne19216:0"
-        edit: crwdns19218:0crwdne19218:0
-        delete: crwdns19220:0crwdne19220:0
-        name: crwdns19222:0crwdne19222:0
+          add_member: crwdns247666:0crwdne247666:0
+          add_a_new_member: "crwdns247668:0crwdne247668:0"
+          current_members: "crwdns247670:0crwdne247670:0"
+        edit: crwdns247672:0crwdne247672:0
+        delete: crwdns247674:0crwdne247674:0
+        name: crwdns247676:0crwdne247676:0
       category:
-        index: crwdns19224:0crwdne19224:0
-        new: crwdns19226:0crwdne19226:0
-        edit: "crwdns19228:0%{title}crwdne19228:0"
-        new_link: crwdns19230:0crwdne19230:0
-        deleted: crwdns19232:0crwdne19232:0
-        created: crwdns19234:0crwdne19234:0
-        not_created: crwdns19236:0crwdne19236:0
-        updated: crwdns19238:0crwdne19238:0
-        not_updated: crwdns19240:0crwdne19240:0
+        index: crwdns247678:0crwdne247678:0
+        new: crwdns247680:0crwdne247680:0
+        edit: "crwdns247682:0%{title}crwdne247682:0"
+        new_link: crwdns247684:0crwdne247684:0
+        deleted: crwdns247686:0crwdne247686:0
+        created: crwdns247688:0crwdne247688:0
+        not_created: crwdns247690:0crwdne247690:0
+        updated: crwdns247692:0crwdne247692:0
+        not_updated: crwdns247694:0crwdne247694:0
       categories:
-        edit: crwdns19242:0crwdne19242:0
-        delete: crwdns19244:0crwdne19244:0
-        category: crwdns19246:0crwdne19246:0
-        delete_confirm: crwdns19248:0crwdne19248:0
-        default_private: "crwdns19250:0crwdne19250:0"
-        default_public: "crwdns19252:0crwdne19252:0"
+        edit: crwdns247696:0crwdne247696:0
+        delete: crwdns247698:0crwdne247698:0
+        category: crwdns247700:0crwdne247700:0
+        delete_confirm: crwdns247702:0crwdne247702:0
+        default_private: "crwdns247704:0crwdne247704:0"
+        default_public: "crwdns247706:0crwdne247706:0"
       group:
-        index: "crwdns19254:0crwdne19254:0"
+        index: "crwdns247708:0crwdne247708:0"
         show:
-          title: "crwdns19256:0crwdne19256:0"
-        new: "crwdns19258:0crwdne19258:0"
-        created: "crwdns19260:0crwdne19260:0"
-        not_created: "crwdns19262:0crwdne19262:0"
-        deleted: "crwdns19264:0crwdne19264:0"
+          title: "crwdns247710:0crwdne247710:0"
+        new: "crwdns247712:0crwdne247712:0"
+        created: "crwdns247714:0crwdne247714:0"
+        not_created: "crwdns247716:0crwdne247716:0"
+        deleted: "crwdns247718:0crwdne247718:0"
     common:
-      pages: crwdns19266:0crwdne19266:0
+      pages: crwdns247720:0crwdne247720:0
     errors:
-      not_signed_in: crwdns19268:0crwdne19268:0
-      access_denied: crwdns19270:0crwdne19270:0
+      not_signed_in: crwdns247722:0crwdne247722:0
+      access_denied: crwdns247724:0crwdne247724:0
     forum:
-      header: "crwdns19272:0%{title}crwdne19272:0"
-      forums: crwdns19274:0crwdne19274:0
-      new: crwdns19276:0crwdne19276:0
-      edit: "crwdns19278:0%{title}crwdne19278:0"
+      header: "crwdns247726:0%{title}crwdne247726:0"
+      forums: crwdns247728:0crwdne247728:0
+      new: crwdns247730:0crwdne247730:0
+      edit: "crwdns247732:0%{title}crwdne247732:0"
       topics_count:
-        one: crwdns19280:1crwdne19280:1
-        other: "crwdns19280:5%{count}crwdne19280:5"
+        one: crwdns247734:1crwdne247734:1
+        other: "crwdns247734:5%{count}crwdne247734:5"
       posts_count:
-        one: crwdns19282:1crwdne19282:1
-        other: "crwdns19282:5%{count}crwdne19282:5"
-      moderator_tools: "crwdns19284:0crwdne19284:0"
-      topic_tools: "crwdns19286:0crwdne19286:0"
-      admin_tools: "crwdns19288:0crwdne19288:0"
-      title: "crwdns19290:0crwdne19290:0"
+        one: crwdns247736:1crwdne247736:1
+        other: "crwdns247736:5%{count}crwdne247736:5"
+      moderator_tools: "crwdns247738:0crwdne247738:0"
+      topic_tools: "crwdns247740:0crwdne247740:0"
+      admin_tools: "crwdns247742:0crwdne247742:0"
+      title: "crwdns247744:0crwdne247744:0"
     forums:
       index:
-        title: crwdns19292:0crwdne19292:0
-        forum: crwdns19294:0crwdne19294:0
-        views: crwdns19296:0crwdne19296:0
-        last_post: 'crwdns19298:0crwdne19298:0'
-        none: crwdns19300:0crwdne19300:0
+        title: crwdns247746:0crwdne247746:0
+        forum: crwdns247748:0crwdne247748:0
+        views: crwdns247750:0crwdne247750:0
+        last_post: 'crwdns247752:0crwdne247752:0'
+        none: crwdns247754:0crwdne247754:0
     topic:
       headings:
-        topic: crwdns19302:0crwdne19302:0
-        latest: crwdns19304:0crwdne19304:0
-        posts: crwdns19306:0crwdne19306:0
-        views: crwdns19308:0crwdne19308:0
+        topic: crwdns247756:0crwdne247756:0
+        latest: crwdns247758:0crwdne247758:0
+        posts: crwdns247760:0crwdne247760:0
+        views: crwdns247762:0crwdne247762:0
       moderation:
-        success: crwdns19310:0crwdne19310:0
-        no_option_selected: crwdns19312:0crwdne19312:0
-      received_reply: crwdns19314:0crwdne19314:0
-      reply: crwdns19316:0crwdne19316:0
-      quote: crwdns19318:0crwdne19318:0
-      delete: crwdns19320:0crwdne19320:0
-      created: crwdns19322:0crwdne19322:0
-      new: crwdns19324:0crwdne19324:0
-      edit: crwdns19326:0crwdne19326:0
-      not_created: crwdns19328:0crwdne19328:0
-      deleted: crwdns19330:0crwdne19330:0
-      cannot_delete: crwdns19332:0crwdne19332:0
-      updated: crwdns19334:0crwdne19334:0
-      not_updated: crwdns19336:0crwdne19336:0
-      subscribed: crwdns19338:0crwdne19338:0
-      unsubscribed: crwdns19340:0crwdne19340:0
-      none: crwdns19342:0crwdne19342:0
+        success: crwdns247764:0crwdne247764:0
+        no_option_selected: crwdns247766:0crwdne247766:0
+      received_reply: crwdns247768:0crwdne247768:0
+      reply: crwdns247770:0crwdne247770:0
+      quote: crwdns247772:0crwdne247772:0
+      delete: crwdns247774:0crwdne247774:0
+      created: crwdns247776:0crwdne247776:0
+      new: crwdns247778:0crwdne247778:0
+      edit: crwdns247780:0crwdne247780:0
+      not_created: crwdns247782:0crwdne247782:0
+      deleted: crwdns247784:0crwdne247784:0
+      cannot_delete: crwdns247786:0crwdne247786:0
+      updated: crwdns247788:0crwdne247788:0
+      not_updated: crwdns247790:0crwdne247790:0
+      subscribed: crwdns247792:0crwdne247792:0
+      unsubscribed: crwdns247794:0crwdne247794:0
+      none: crwdns247796:0crwdne247796:0
       links:
-        new: crwdns19344:0crwdne19344:0
-        back_to_topics: crwdns19346:0crwdne19346:0
-        edit: crwdns19348:0crwdne19348:0
-      not_found: crwdns19350:0crwdne19350:0
+        new: crwdns247798:0crwdne247798:0
+        back_to_topics: crwdns247800:0crwdne247800:0
+        edit: crwdns247802:0crwdne247802:0
+      not_found: crwdns247804:0crwdne247804:0
       hidden:
-        'true': crwdns19352:0crwdne19352:0
-        'false': crwdns19354:0crwdne19354:0
+        'true': crwdns247806:0crwdne247806:0
+        'false': crwdns247808:0crwdne247808:0
       locked:
-        'true': crwdns19356:0crwdne19356:0
-        'false': crwdns19358:0crwdne19358:0
+        'true': crwdns247810:0crwdne247810:0
+        'false': crwdns247812:0crwdne247812:0
       pinned:
-        'true': crwdns19360:0crwdne19360:0
-        'false': crwdns19362:0crwdne19362:0
+        'true': crwdns247814:0crwdne247814:0
+        'false': crwdns247816:0crwdne247816:0
     topics:
       show:
-        reply: crwdns19364:0crwdne19364:0
-        delete: crwdns19366:0crwdne19366:0
-        subscribe: crwdns19368:0crwdne19368:0
-        unsubscribe: crwdns19370:0crwdne19370:0
-        reply_to_topic: crwdns19372:0crwdne19372:0
-        pending_review: crwdns19374:0crwdne19374:0
+        reply: crwdns247818:0crwdne247818:0
+        delete: crwdns247820:0crwdne247820:0
+        subscribe: crwdns247822:0crwdne247822:0
+        unsubscribe: crwdns247824:0crwdne247824:0
+        reply_to_topic: crwdns247826:0crwdne247826:0
+        pending_review: crwdns247828:0crwdne247828:0
         hide:
-          'true': crwdns19376:0crwdne19376:0
-          'false': crwdns19378:0crwdne19378:0
+          'true': crwdns247830:0crwdne247830:0
+          'false': crwdns247832:0crwdne247832:0
         lock:
-          'true': crwdns19380:0crwdne19380:0
-          'false': crwdns19382:0crwdne19382:0
+          'true': crwdns247834:0crwdne247834:0
+          'false': crwdns247836:0crwdne247836:0
         pin:
-          'true': crwdns19384:0crwdne19384:0
-          'false': crwdns19386:0crwdne19386:0
-        related_proposals: "crwdns19388:0crwdne19388:0"
+          'true': crwdns247838:0crwdne247838:0
+          'false': crwdns247840:0crwdne247840:0
+        related_proposals: "crwdns247842:0crwdne247842:0"
     post:
       buttons:
-        reply: crwdns19390:0crwdne19390:0
-        edit: crwdns19392:0crwdne19392:0
-      created: crwdns19394:0crwdne19394:0
-      new: crwdns19396:0crwdne19396:0
-      edit: crwdns19398:0crwdne19398:0
-      not_created: crwdns19400:0crwdne19400:0
-      not_created_topic_locked: crwdns19402:0crwdne19402:0
-      edited: crwdns19404:0crwdne19404:0
-      not_edited: crwdns19406:0crwdne19406:0
-      deleted: crwdns19408:0crwdne19408:0
-      deleted_with_topic: crwdns19410:0crwdne19410:0
-      cannot_delete: crwdns19412:0crwdne19412:0
-      cannot_quote_deleted_post: crwdns19414:0crwdne19414:0
+        reply: crwdns247844:0crwdne247844:0
+        edit: crwdns247846:0crwdne247846:0
+      created: crwdns247848:0crwdne247848:0
+      new: crwdns247850:0crwdne247850:0
+      edit: crwdns247852:0crwdne247852:0
+      not_created: crwdns247854:0crwdne247854:0
+      not_created_topic_locked: crwdns247856:0crwdne247856:0
+      edited: crwdns247858:0crwdne247858:0
+      not_edited: crwdns247860:0crwdne247860:0
+      deleted: crwdns247862:0crwdne247862:0
+      deleted_with_topic: crwdns247864:0crwdne247864:0
+      cannot_delete: crwdns247866:0crwdne247866:0
+      cannot_quote_deleted_post: crwdns247868:0crwdne247868:0
     posts:
       moderation:
-        moderate: crwdns19416:0crwdne19416:0
-        approve: crwdns19418:0crwdne19418:0
-        spam: crwdns19420:0crwdne19420:0
-        success: crwdns19422:0crwdne19422:0
+        moderate: crwdns247870:0crwdne247870:0
+        approve: crwdns247872:0crwdne247872:0
+        spam: crwdns247874:0crwdne247874:0
+        success: crwdns247876:0crwdne247876:0
       post:
-        pending_review: crwdns19424:0crwdne19424:0
-        in_reply_to: crwdns19426:0crwdne19426:0
+        pending_review: crwdns247878:0crwdne247878:0
+        in_reply_to: crwdns247880:0crwdne247880:0
     moderation:
       index:
-        title: "crwdns19428:0%{forum}crwdne19428:0"
+        title: "crwdns247882:0%{forum}crwdne247882:0"
   helpers:
     submit:
       frm_forum:
-        create: crwdns19430:0crwdne19430:0
-        update: crwdns19432:0crwdne19432:0
+        create: crwdns247884:0crwdne247884:0
+        update: crwdns247886:0crwdne247886:0
       topic:
-        create: crwdns19434:0crwdne19434:0
-        update: crwdns19436:0crwdne19436:0
+        create: crwdns247888:0crwdne247888:0
+        update: crwdns247890:0crwdne247890:0
       frm_mod:
-        create: crwdns19438:0crwdne19438:0
+        create: crwdns247892:0crwdne247892:0
       frm_category:
-        create: crwdns19440:0crwdne19440:0
-        update: crwdns19442:0crwdne19442:0
+        create: crwdns247894:0crwdne247894:0
+        update: crwdns247896:0crwdne247896:0
   simple_form:
     labels:
       frm_forum:
-        category: crwdns19444:0crwdne19444:0
-        title: crwdns19446:0crwdne19446:0
-        name: crwdns19448:0crwdne19448:0
-        description: crwdns19450:0crwdne19450:0
-        moderators: crwdns19452:0crwdne19452:0
-        visible_outside: crwdns19454:0crwdne19454:0
+        category: crwdns247898:0crwdne247898:0
+        title: crwdns247900:0crwdne247900:0
+        name: crwdns247902:0crwdne247902:0
+        description: crwdns247904:0crwdne247904:0
+        moderators: crwdns247906:0crwdne247906:0
+        visible_outside: crwdns247908:0crwdne247908:0
       topic:
-        subject: crwdns19456:0crwdne19456:0
-        locked: crwdns19458:0crwdne19458:0
-        pinned: crwdns19460:0crwdne19460:0
-        hidden: crwdns19462:0crwdne19462:0
+        subject: crwdns247910:0crwdne247910:0
+        locked: crwdns247912:0crwdne247912:0
+        pinned: crwdns247914:0crwdne247914:0
+        hidden: crwdns247916:0crwdne247916:0
         posts:
-          text: crwdns19464:0crwdne19464:0
+          text: crwdns247918:0crwdne247918:0
       frm_category:
-        name: crwdns19466:0crwdne19466:0
+        name: crwdns247920:0crwdne247920:0
       post:
-        text: crwdns19468:0crwdne19468:0
+        text: crwdns247922:0crwdne247922:0
       frm_mod:
-        name: crwdns19470:0crwdne19470:0
+        name: crwdns247924:0crwdne247924:0
   #General stuff
-  time_ago_in_words: "crwdns19472:0%{time}crwdne19472:0"
-  ago: "crwdns19474:0crwdne19474:0"
-  ago_by: "crwdns19476:0crwdne19476:0"
-  by: crwdns19478:0crwdne19478:0
-  started_by: "crwdns19480:0crwdne19480:0"
-  are_you_sure: crwdns19482:0crwdne19482:0
-  lst_post: "crwdns19484:0crwdne19484:0"
-  last_post: "crwdns19486:0crwdne19486:0"
-  back_to_forums: "crwdns19488:0crwdne19488:0"
+  time_ago_in_words: "crwdns247926:0%{time}crwdne247926:0"
+  ago: "crwdns247928:0crwdne247928:0"
+  ago_by: "crwdns247930:0crwdne247930:0"
+  by: crwdns247932:0crwdne247932:0
+  started_by: "crwdns247934:0crwdne247934:0"
+  are_you_sure: crwdns247936:0crwdne247936:0
+  lst_post: "crwdns247938:0crwdne247938:0"
+  last_post: "crwdns247940:0crwdne247940:0"
+  back_to_forums: "crwdns247942:0crwdne247942:0"
   pages:
     forum_groups:
       index:
-        create_first: crwdns19490:0crwdne19490:0
+        create_first: crwdns247944:0crwdne247944:0
   info:
     members:
-      ok_message: crwdns19492:0crwdne19492:0
+      ok_message: crwdns247946:0crwdne247946:0
