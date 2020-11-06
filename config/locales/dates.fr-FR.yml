@@ -1,78 +1,78 @@
 fr-FR:
   countdowns:
     labelsPlural:
-      - Années
-      - Mois
-      - Semaines
-      - Jours
-      - Heures
+      - Years
+      - Months
+      - Weeks
+      - Days
+      - Hours
       - Minutes
-      - Secondes
+      - Seconds
     labelsSingular:
-      - Année
-      - Mois
-      - Semaine
-      - Jour
-      - Heure
+      - Year
+      - Month
+      - Week
+      - Day
+      - Hour
       - Minute
-      - Seconde
+      - Second
     compactLabelsPlural:
-      - 'a'
+      - 'y'
       - 'm'
-      - 's'
-      - 'j'
+      - 'w'
+      - 'd'
     compactLabelsSingular:
-      - 'a'
+      - 'y'
       - 'm'
-      - 's'
-      - 'j'
+      - 'w'
+      - 'd'
   calendar:
     monthNames:
-      - Janvier
-      - Février
-      - Mars
-      - Avril
-      - Mai
-      - Juin
-      - Juillet
-      - Août
-      - Septembre
-      - Octobre
-      - Novembre
-      - Décembre
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
     monthNamesShort:
       - Jan
-      - Fév
+      - Feb
       - Mar
-      - Avr
-      - Mai
+      - Apr
+      - May
       - Jun
       - Jul
       - Aug
       - Sep
       - Oct
       - Nov
-      - Déc
+      - Dec
     dayNames:
-      - Dimanche
-      - Lundi
-      - Mardi
-      - Mercredi
-      - Jeudi
-      - Vendredi
-      - Samedi
+      - Sunday
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
     dayNamesShort:
-      - Dim
-      - Lun
-      - Mar
-      - Mer
-      - Jeu
-      - Ven
-      - Sam
-    today: 'aujourd''hui'
-    month: 'mois'
-    week: 'semaine'
-    day: 'Jour'
+      - Sun
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+    today: 'today'
+    month: 'month'
+    week: 'week'
+    day: 'day'
     firstDay: 0
     timeFormat: 'h:mm TT{ - [ddd] [dd] h:mm TT}'
     changed: 'Changed!'
@@ -88,81 +88,81 @@ fr-FR:
       long: "%d %B %Y"
   time:
     formats:
-      default: "%d %b %Y à %I:%M %p"
-      long: "%A %d %B %Y à %I:%M %p"
+      default: "%d %b %Y at %I:%M %p"
+      long: "%A %d %B %Y at %I:%M %p"
       long_date: "%A %d %B %Y"
-      long_date_time: "%A %d %B %Y à %I:%M %p"
-      from_long_date_time: "De %A %d %B %Y à %I:%M %p"
-      until_long_date_time: "Jusque %A %d %B %Y à %I:%M %p"
-      from_long_date: "De %A %d %B %Y"
-      until_long_date: "A %A %d %B %Y"
+      long_date_time: "%A %d %B %Y at %I:%M %p"
+      from_long_date_time: "From %A %d %B %Y at %I:%M %p"
+      until_long_date_time: "To %A %d %B %Y at %I:%M %p"
+      from_long_date: "From %A %d %B %Y"
+      until_long_date: "To %A %d %B %Y"
       short: "%d %b %Y"
       two_rows: "%d %b %Y <br/> %I:%M %p"
-      weekday: "%a à %I:%M %p"
+      weekday: "%a at %I:%M %p"
       month: "%B"
       dayandmonth: "%d/%m"
       hour: "%I:%M %p"
-      yesterday_at: "hier à %I:%M %p"
+      yesterday_at: "yesterday at %I:%M %p"
       textfield: "%d/%m/%Y %I:%M %p"
-      datepicker: "%d/%m/%Y"
+      datepicker: "%Y-%m-%d"
       datetimepicker: "%Y-%m-%d %H:%M"
     am: "am"
     pm: "pm"
     left:
       seconds:
-        one: "1 seconde"
-        other: "%{count} secondes"
+        one: "1 second"
+        other: "%{count} seconds"
       minutes:
         one: "1 minute"
         other: "%{count} minutes"
       hours:
-        one: "1 heure"
-        other: "%{count} heures"
+        one: "1 hour"
+        other: "%{count} hours"
       days:
-        one: "1 jour"
-        other: "%{count} jours"
+        one: "1 day"
+        other: "%{count} days"
       months:
-        one: "1 mois"
-        other: "%{count} mois"
+        one: "1 month"
+        other: "%{count} months"
   datetime:
-    added_on: "le %{date}"
+    added_on: "on %{date}"
     distance_in_words:
       about_x_hours:
-        one: Il y a environ 1 heure
-        other: il y a environ %{count} heures
+        one: about 1 hour ago
+        other: about %{count} hours ago
       about_x_months:
-        one: il y a environ un mois
-        other: Il y a environ %{count} mois
+        one: about 1 month ago
+        other: about %{count} months ago
       about_x_years:
-        one: Il y a environ 1 an
-        other: Il y a environ %{count} ans
+        one: about 1 year ago
+        other: about %{count} years ago
       almost_x_years:
-        one: Il y a presque 1 an
-        other: Il y a près de %{count} ans
-      half_a_minute: il y a 30 secondes
+        one: almost 1 year ago
+        other: almost %{count} years ago
+      half_a_minute: half a minute ago
       less_than_x_minutes:
-        one: Il y a moins d'une minute
-        other: Il y a moins de %{count} minutes
+        one: less than 1 minute ago
+        other: less than %{count} minutes ago
       less_than_x_seconds:
-        one: Il y a moins de 1 seconde
-        other: il y a moins de %{count} secondes
+        one: less than 1 second ago
+        other: less than %{count} seconds ago
       over_x_years:
-        one: Il y a plus de 1 an
-        other: il y a plus de %{count} ans
+        one: more than 1 year ago
+        other: more than %{count} years ago
       x_days:
-        one: Il y a 1 jour
-        other: ! 'il y a %{count} jours'
+        one: 1 day ago
+        other: ! '%{count} days ago'
       x_minutes:
-        one: il y a une minute
-        other: ! 'Il y a %{count} minutes'
+        one: 1 minute ago
+        other: ! '%{count} minutes ago'
       x_months:
-        one: il y a 1 mois
-        other: ! 'Il y a %{count} mois'
+        one: 1 month ago
+        other: ! '%{count} months ago'
       x_seconds:
-        one: "Il y a 1 seconde"
-        other: ! "Il y a %{count} secondes"
+        one: "1 second ago"
+        other: ! "%{count} seconds ago"
   label:
-    from: "De"
-    to: "À"
-  countdown: "{m<}il y a{mn} {ml} {m>} {s<}maintenant{s>}"
-  countdown2: "{y <}{yn} {yl} {y >} {o <}{on} {ol} {o >} {d <}{dn} {dl} {d >} {h <}{hn} {hl} {h >} {m <}{mn} {ml} {m >} {s <} secondes {s >}"
+    from: "from"
+    to: "to"
+  countdown: "{m<}{mn} {ml} ago{m>} {s<}just now{s>}"
+  countdown2: "{y<}{yn} {yl}{y>} {o<}{on} {ol}{o>} {d<}{dn} {dl}{d>} {h<}{hn} {hl}{h>} {m<}{mn} {ml}{m>} {s<}few seconds{s>}"
