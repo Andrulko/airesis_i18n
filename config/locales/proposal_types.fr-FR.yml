@@ -3,15 +3,15 @@ fr-FR:
     proposals:
       edit:
         add_solution:
-          standard: "Ajouter une autre solution"
-          poll: "Ajouter une autre option"
-          rule_book: "Ajouter une autre solution"
-          press: "Ajouter une autre solution"
-          event: "Ajouter une autre solution"
-          estimate: "Ajouter une autre solution"
-          agenda: "Ajouter un autre point"
-          candidates: "Ajouter un autre candidat"
-          simple: "Ajouter une autre solution"
+          standard: "Add another solution"
+          poll: "Add another option"
+          rule_book: "Add another solution"
+          press: "Add another solution"
+          event: "Add another solution"
+          estimate: "Add another solution"
+          agenda: "Add another point"
+          candidates: "Add another candidate"
+          simple: "Add another solution"
         solution_title:
           standard: "Solution"
           poll: "Option"
@@ -20,18 +20,18 @@ fr-FR:
           event: "Solution"
           estimate: "Solution"
           agenda: "Point"
-          candidates: "Candidat"
+          candidates: "Candidate"
           simple: "Solution"
         insert_title:
-          standard: "Insérer un titre"
-          poll: "Insérer un titre"
-          rule_book: "Insérer un titre"
-          press: "Insérer un titre"
-          event: "Insérer un titre"
-          estimate: "Insérer un titre"
-          agenda: "Insérer un titre"
-          candidates: "Insérer le nom et le prénom"
-          simple: "Insérer un titre"
+          standard: "Insert a title"
+          poll: "Insert a title"
+          rule_book: "Insert a title"
+          press: "Insert a title"
+          event: "Insert a title"
+          estimate: "Insert a title"
+          agenda: "Insert a title"
+          candidates: "Insert name and surname"
+          simple: "Insert a title"
         new_solution_title:
           standard: "Solution <span class=\"num\">%{num}</span>:"
           poll: "Option <span class=\"num\">%{num}</span>:"
@@ -40,224 +40,224 @@ fr-FR:
           event: "Solution <span class=\"num\">%{num}</span>:"
           estimate: "Solution <span class=\"num\">%{num}</span>:"
           agenda: "<span class=\"num\">%{num}</span> point:"
-          candidates: "Candidat <span class=\"num\">%{num}</span>:"
+          candidates: "Candidate <span class=\"num\">%{num}</span>:"
           simple: "Solution <span class=\"num\">%{num}</span>:"
       new:
         standard:
-          problems_title: "Problèmes"
-          problems_question: "Quel est le problème à résoudre et/ou quels sont les obstacles à surmonter pour atteindre l'objectif ?"
-          problems_title_label: "Quel est le problème à résoudre et/ou quels sont les obstacles à surmonter pour atteindre l'objectif ?"
-          objectives_title: "Objectifs"
-          step_4_title: "Vous pouvez saisir un texte dans la proposition ou l'écrire plus tard sur la base des opinions reçues"
+          problems_title: "Problems"
+          problems_question: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
+          problems_title_label: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
+          objectives_title: "Objectives"
+          step_4_title: "You can enter a text of the proposal or write it later based on the input received"
           solution:
-            description: "Description de la solution"
-            time: "Durée"
-            subject: "Superviseur"
-            resources: "Ressources nécessaires et comment les récupérer"
-            aspects: "Aspects éthiques, environnementaux, sociaux"
+            description: "Description of the solution"
+            time: "Times"
+            subject: "Supervisor"
+            resources: "Necessary resources and how to retrieve them"
+            aspects: "Ethical, environmental, social aspects"
             documents: "Documentation"
-            pros: "Avantages"
-            cons: "Inconvénients"
+            pros: "Pros"
+            cons: "Cons"
             title: "Solution 1"
           suggestion_html: |
-            <div><b>Exemple :</b></div>
-            <div>réduire l'utilisation de l'eau potable pour l'irrigation.</div>
-            <div>Utiliser de l'eau potable pour arroser les parcs publics et les jardins privés est un gaspillage et a des coûts élevés. Par ailleurs l'aquifère alimentant l'aqueduc est insuffisant</div>
+            <div><b>Example:</b></div>
+            <div>Reduce the usage of drinking water for irrigation.</div>
+            <div>Using drinking water to water public parks and private gardens is a waste and has relevant costs. Moreover the aquifer that supplies the aqueduct is running low</div>
           paragraph:
-            similar: "Expériences similaires"
-            stakeholders: "Intervenants"
-            requirements: "Exigences de la solution"
+            similar: "Similar experiences"
+            stakeholders: "Stakeholders"
+            requirements: "Solution requirements"
           question:
             paragraph:
-              similar: "Y a-t-il des expériences à s'inspirer pour atteindre l'objectif ? Parmi les solutions / initiatives possibles déjà en place, lesquelles ont obtenue les meilleurs et les pires résultats ? Pourquoi ?"
-              stakeholders: "Qui va avoir les bénéfices et les inconvénients de la réalisation de l'objectif et des solutions proposées ? Ces personnes ont-elles été prises en considération dans cette proposition ? De quelle manière ?"
-              requirements: "Quelles sont les caractéristiques que doit respecter la solution idéale ? Peut être se référer aux exigences techniques qui importent et aux principes à observer."
+              similar: "Are there experiences to inspire to achieve the goal? Among the possible solutions / initiatives already in place, which ones have achieved the best results and which ones have the worst? Why?"
+              stakeholders: "Who will receive the benefits and drawbacks from the achievement of the objective and the proposed solutions? Were these subjects involved in the discussion of this proposal? In what way?"
+              requirements: "What are the characteristics that should respect the ideal solution? May be referred to both technical requirements that values ​​and principles to be observed."
             solution:
-              description: "Décrire la proposition pour atteindre l'objectif."
-              time: "Quand sera appliquée cette solution ? Identifier les étapes possibles de mise en œuvre."
-              subject: "Comment mettre en œuvre ou prendre les dispositions pour mettre en œuvre la solution ? En cas de mise en œuvre, comment vont être surveillés et vérifiés les résultats de la solution ?"
-              resources: "Y a t-il des fonds nécessaires, des bénévoles, des outils et des compétences à mettre en œuvre pour cette solution ? Les lister et les quantifier. Comment seront obtenues ces ressources ?"
-              aspects: "Cette proposition répond-elle aux exigences éthiques de la communauté ou du groupe ? Quel est son impact social et environnemental ?"
-              documents: "La documentation est-elle disponible pour la solution ?"
-              pros: "Lister et résumer les principaux avantages et points forts de cette solution. Indiquer qui sont les personnes concernées par ces avantages."
-              cons: "Lister et résumer les principaux problèmes et les inconvénients de cette solution. Indiquer qui sont les personnes concernées pas ces inconvénients."
+              description: "Describe the solution that, in practice, is proposed to take to achieve the goal."
+              time: "When will this solution be implemented? Identify possible stages of implementation."
+              subject: "Who will implement or arrange to implement the solution? In case of implementation, how to monitor and verify the outcomes of the solution?"
+              resources: "Are funds, volunteers, tools and skills going to be needed to implement this solution? List and quantify them. How will these resources be found?"
+              aspects: "Does this solution meet the ethical requirements of the group or community to which it is addressed? What is its social and environmental impact?"
+              documents: "Is documentation available for the solution?"
+              pros: "List and summarize the main advantages and strengths of this solution. Indicate the stakeholders of the advantages."
+              cons: "List and summarize the main problems and disadvantages of this solution. Indicate the stakeholders of the disadvantages."
         rule_book:
-          problems_title: "Problèmes"
-          problems_title_label: "Quels sont les problèmes à résoudre avec l'application de ce règlement ? Quels sont les enjeux à régler ? Pourquoi ?"
-          problems_question: "Quels sont les problèmes à résoudre avec l'application de ce règlement ? Quels sont les enjeux à régler ? Pourquoi ?"
+          problems_title: "Problems"
+          problems_title_label: "What are the problems to be solved with the application of this regulation? What are the issues to be regulated? Why?"
+          problems_question: "What are the problems to be solved with the application of this regulation? What are the issues to be regulated? Why?"
           suggestion_html: |
-            <div><b>Exemple :</b></div>
-            <div>Règlement pour réserver la St. Peter hall</div>
-            <div>la ville de Silverham dispose d'une salle de conférence qui est utilisée que par les « camarades » du maire. Il est temps de choisir une procédure impartiale pour accorder à tous les citoyens et les associations publiques le droit de réserver la salle pour des manifestations publiques.</div>
+            <div><b>Example:</b></div>
+            <div>Rule book to reserve the St. Peter's hall</div>
+            <div>The town of  Silverham has a conference room that nowadays is used only by the Mayor's "fellows". It is time to choose an impartial procedure to grant all citizens and public associations the right to book the room for public events.</div>
           solution:
             title: "Solution 1"
             article: "Article %{num}"
-            pros: "Avantages"
-            cons: "Inconvénients"
+            pros: "Pros"
+            cons: "Cons"
           paragraph:
-            inspire: "Règlement duquel s'inspirer"
-            requirements: "Exigences à satisfaire"
-            stakeholders: "Intervenants (personnes concernées)"
+            inspire: "Regulation to inspire from"
+            requirements: "Requirements to meet"
+            stakeholders: "Stakeholders (involved people)"
           question:
             paragraph:
-              inspire: "Le règlement dont on s'inspire est-il semblable à celui-ci ? Parmi les expériences de règles similaires, lesquelles ont obtenue les meilleurs et les pires résultats ? Pourquoi ?"
-              requirements: "Quelles sont les principales contraintes dont le règlement devrait tenir compte ? Quelles sont les valeurs et les principes à respecter ? Quel sera le coût d'application de la réglementation ? Quelles personnes devront l'appliquer ?"
-              stakeholders: "Qui est le plus touché par l'application de la réglementation ? Qui subira les conséquences ? Ces personnes ont-elles participé à la discussion de cette proposition ? Comment ?"
+              inspire: "Are there similar regulations from which it takes inspiration? Among the experiences of similar rules, which ones have achieved the best results and which ones have the worst? Why?"
+              requirements: "What are the main constraints that the regulation should take into account? What are the values ​​and the principles to be observed? What will be the cost of application of the regulation? What subjects will be instructed to enforce it?"
+              stakeholders: "Who is most affected by the application of the regulation? Who will suffer the consequences? Were these subjects involved in the discussion of this proposal? How?"
             solution:
-              article: "Entrez le texte du premier article, en veillant à ce que son interprétation soit sans ambiguïté. Insérer une définition des termes ou expressions pour éviter les mal-entendus."
-              pros: "Lister et résumer les principaux avantages et points forts de cette solution. Indiquer qui sont les personnes concernées par ces avantages."
-              cons: "Lister et résumer les principaux problèmes et les inconvénients de cette solution. Indiquer quelles sont les personnes concernées pas ces inconvénients."
+              article: "Enter the text of the first article, ensuring that its interpretation appears unique. Insert a definition of terms or expressions are subject to misunderstanding."
+              pros: "List and summarize the main advantages and strengths of this solution. Indicate the stakeholders of the advantages."
+              cons: "List and summarize the main problems and disadvantages of this solution. Indicate the stakeholders of the disadvantages."
         press:
-          problems_title_label: "Quel est le message que vous souhaitez transmettre ? Quels obstacles sont attendus pour obtenir un niveau suffisant de compréhension ou diffusion ? Est-ce qu'il y a a des articles ou des nouvelles récentes que vous souhaitez répliquer ou auxquels vous souhaitez apporter des améliorations ?"
-          problems_title: "Message à transmettre"
-          problems_question: "Quel est le message que vous souhaitez transmettre ? Quels obstacles sont attendus pour obtenir un niveau suffisant de compréhension ou diffusion ? Est-ce qu'il y a a des articles ou des nouvelles récentes que vous souhaitez répliquer ou auxquels vous souhaitez apporter des améliorations ?"
+          problems_title_label: "What is the message you want to convey? What obstacles are expected to its proper understanding and streams? There are articles or recent news that you want to replicate or to which you want to provide an adjustment?"
+          problems_title: "Message to transmit"
+          problems_question: "What is the message you want to convey? What obstacles are expected to its proper understanding and streams? There are articles or recent news that you want to replicate or to which you want to provide an adjustment?"
           suggestion_html: |
-            <div><b>Exemple :</b></div>
-            <div>Annoncer la sortie de la version 3.5 de Airesis.</div>
-            <div>Nous devons annoncer la sortie de la version 3.5 de Airesis, qui apporte des fonctionnalités importantes pour les Administrations Publiques. Il est nécessaire d'expliquer ce qu'est Airesis et captiver l'attention de la presse, compte tenu des rumeurs récentes sur l'utilisation de Airesis à la maison-blanche.</div>
+            <div><b>Example:</b></div>
+            <div>Advertise the release of the version 3.5 of Airesis.</div>
+            <div>We have to advertise the release of the version 3.5 of Airesis, that brings important features for the Public Administrations. It is necessary to explain what Airesis is and captivate the attention of the press, given the recent rumors about the usage of Airesis in the White House.</div>
           solution:
             title: "Solution 1"
-            maintitle: "Titre"
-            subtitle: "Sous-titre"
-            incipit: "Introduction"
-            body: "Contenu"
+            maintitle: "Title"
+            subtitle: "Subtitle"
+            incipit: "Incipit"
+            body: "Body"
             conclusion: "Conclusions"
-            deep: "Prospectives"
+            deep: "Insights"
           paragraph:
-            target: "Bénéficiaires/cible"
+            target: "Recipients/Target"
           question:
             paragraph:
-              target: "Qui est l'objectif de l'article / communiqué de presse ? Quels aspects du message que vous voulez transmettre sont les plus pertinents ?"
+              target: "Who are the targets of the article / press release? Which aspects of the message you want to convey that are the most interesting for them?"
             solution:
-              maintitle: "Comment pouvez-vous résumer en quelques mots le message de l'article / communiqué de presse ?"
-              subtitle: "Indiquer en un mot, un concept clé de l'article ou les informations complémentaires à celles contenues dans le titre."
-              incipit: "Indiquer en très peu de mots qui a fait quoi, quand il l'a fait, où et pourquoi, en mettant en évidence pourquoi le fait est très pertinent."
-              body: "Décrire plus en détail, mais de manière synthétique, le fait. Écrire des phrases courtes et significatives."
-              conclusion: "Y a-t-il des propositions à faire au lecteur ? Quelles pourraient être les évolutions possibles du fait ou de ses conséquences ?"
-              deep: "Insérer des liens, des contacts ou des informations supplémentaires pour ceux qui veulent approfondir l'actualité."
+              maintitle: "How can you summarize in a few words the message of the article / press release?"
+              subtitle: "Indicate in a nutshell, a key concept of the article or additional information to that contained in the title."
+              incipit: "Indicate in very few words who did what, when he did, where and why, highlighting why the fact is very relevant."
+              body: "Describe in more detail, but synthetic, the fact. Write short and significant sentences."
+              conclusion: "Are there proposals to make to the reader? What could be the possible developments of the fact or its implications?"
+              deep: "Insert links, contacts, or additional information for those who wish to deepen the news."
         estimate:
-          problems_title_label: "Quels biens ou services désirez vous acheter ? Pour résoudre quels problèmes ?"
-          problems_title: "Problèmes"
-          problems_question: "Quels biens ou services désirez vous acheter ? Pour résoudre quels problèmes?"
+          problems_title_label: "What goods or services you wish to purchase? To solve which problems?"
+          problems_title: "Problems"
+          problems_question: "What goods or services you wish to purchase? To solve which problems?"
           suggestion_html: |
-            <div><b>Exemple:</b></div>
-            <div>Remplacement de la chaudière dans le siège social de l'Association.</div>
-            <div>En raison de la panne de l'ancienne chaudière, notre siège est impraticable pendant les hivers. Étant donné qu'il n'est pas possible de la réparer, il faut la remplacer avec une nouvelle, à faible consommation d'énergie.</div>
+            <div><b>Example:</b></div>
+            <div>Replacement of the thermal plant in the headquarter of the Association.</div>
+            <div>Because of the failure of the old boiler, our quarter is impractical during winters. Given that it is not possible to fix it, we have to substitute the old thermal plant with a new one, with low energy consumption.</div>
           solution:
             title: "Solution 1"
-            cost: "Montant"
-            problems: "Respect des contraintes et des problèmes"
+            cost: "Amount"
+            problems: "Respect of constraints and problems"
             dumentation: "Documentation"
           paragraph:
-            technical_constrains: "Contraintes techniques"
-            temporal_constrains: "Contraintes temporelles"
-            other_constrains: "Contraintes d'environnement, d'éthique, de réglementation"
-            budget: "Budget maximum"
-            recipient_budget: "Destinataires de la demande de devis"
+            technical_constrains: "Technical  constrains"
+            temporal_constrains: "Temporal constrains"
+            other_constrains: "Environmental, ethical, regulatory constrains"
+            budget: "Maximum budget"
+            recipient_budget: "Recipients of the request for quotation"
           question:
             paragraph:
-              technical_constrains: "Quelles sont les exigences techniques que doivent couvrir les biens et les services à acheter ?"
-              temporal_constrains: "Quel délai devrait être prévu pour la disponibilité des biens ou services à acheter?"
-              other_constrains: "Quelles sont les exigences environnementales et éthiques que doivent couvrir les biens ou services à acheter ? Doivent-ils être conformes aux dispositions spécifiques de la loi?"
-              budget: "Quel est le montant maximum attribuable pour l'achat?"
-              recipient_budget: "Quels personnes seront invitées à fournir un devis ? Quelles sont leurs contacts ?"
+              technical_constrains: "Quali requisiti tecnici dovranno assicurare i beni ed i servizi da acquistare?"
+              temporal_constrains: "Con quali tempistica dovranno essere forniti il preventivo nonchè i beni o servizi da acquistare?"
+              other_constrains: "Quali requisiti ambientali ed etici dovranno assicurare i beni o i servizi da acquistare? Dovranno rispettare particolari norme di legge?"
+              budget: "Quale è la massima cifra destinabile all’acquisto?"
+              recipient_budget: "Quali soggetti saranno invitati a fornire un preventivo? Quali sono i loro contatti?"
             solution:
-              cost: "Quel est le montant prévu au budget pour la fourniture de biens et services nécessaires ?"
-              problems: "Lesquelles des contraintes identifiées ci-dessus, ne seront pas respectées ? L'utilisation de cette estimation implique d'autres questions ? (Par exemple, les conflits d'intérêt, le manque de soutien ...)."
-              dumentation: "Signaler, y compris en utilisant des liens et des pièces jointes, les documents supplémentaires."
+              cost: "Qual è l’importo preventivato per la fornitura dei beni e dei servizi richiesti?"
+              problems: "Quali, tra i vincoli precedentemente individuati, non saranno rispettati? Il ricorso a questo preventivo comporta altre problematiche? (es. conflitto d’interesse, mancanza di assistenza...)."
+              dumentation: "Riportare, anche attraverso l’impiego di link ed allegati, ulteriore documentazione relativa a questo preventivo."
         agenda:
-          problems_title: "Type de rendez-vous"
-          problems_question: "Quel genre de réunion souhaitez-vous organiser ? Pourquoi voulez-vous l'organiser?"
+          problems_title: "Type of meeting"
+          problems_question: "Che tipo di incontro si desidera organizzare? Perchè lo si vuole organizzare?"
           suggestion_html: |
-            <div><b>Exemple :</b></div>
-            <div>Choisir un ordre du jour de notre réunion.</div>
-            <div>Réunion de coordination ordinaire pour échanger des expériences avec les référents des comités locaux pour l'agriculture biologique en l'Italie.</div>
+            <div><b>Example:</b></div>
+            <div>Choose an agenda for our meeting.</div>
+            <div>Ordinary co-ordination meeting to exchange experiences with the referents of the local committees for the biological agriculture of Italy.</div>
           solution:
-            title: "Élément"
-            priorities: "Priorités des éléments"
-            links: "Idées de Liens"
+            title: "Item"
+            priorities: "Item priority"
+            links: "Insights links"
             description: "Description"
-            estimated_time: "Temps de discussion nécessaire"
+            estimated_time: "Required discussion time"
           paragraph:
-            date_time: "Date et heure"
-            place: "lieu"
+            date_time: "Date and time"
+            place: "Place"
           question:
             paragraph:
-              date_time: "Quand aura lieu la réunion ? A t-on également vérifié la disponibilité des invités ? A t-on vérifié que l'événement ne se chevauche pas avec d'autres ?"
-              place: "Où l'événement aura-il lieu ? Si l'événement a lieu en ligne, veuillez indiquer l'adresse à laquelle se connecter à participer."
+              date_time: "Quando avrà luogo l’incontro? Si è accertata la disponibilità degli invitati? Si è accertato che l’evento non si sovrapponga con altri? "
+              place: "Dove si svolgerà l’evento? Se l’evento ha luogo on-line, indicare l’indirizzo web al quale collegarsi per partecipare."
             solution:
-              description: "Entrez l'un des points inscrits à l'ordre du jour."
-              links: "Les liens éventuels vers des pages ou des documents Web utiles pour la réunion ou mentionnés lors de la réunion."
-              priorities: "Indiquer pourquoi il est important de traiter cela et quelle est votre priorité."
-              estimated_time: "Quel est le délai prévu pour l'examen de ce point ?"
+              description: "Indicare uno dei punti all'ordine del giorno."
+              links: "Eventuali link a documenti o pagine web utili per la riunione o citati durante la stessa."
+              priorities: "Indicare perchè si ritiene importante trattare questo punto e qual è la sua priorità."
+              estimated_time: "Qual è il tempo previsto di discussione per questo punto?"
         event:
-          problems_title: "But de l'événement"
-          problems_title_label: "Pourquoi voulez vous organiser un événement ? Quels sont les objectifs ?"
-          problems_question: "Pourquoi voulez vous organiser un événement ? Quels sont les objectifs ?"
+          problems_title: "Event scope"
+          problems_title_label: "Why do you want to organize an event? What are the aims?"
+          problems_question: "Why do you want to organize an event? What are the aims?"
           suggestion_html: |
-            <div><b>Exemple :</b></div>
-            <div>Organiser un concert de rock à faible coût.</div>
-            <div>Dans notre ville il y a beaucoup de groupes de jeunes qui ne peuvent pas montrer et améliorer leur talent, en raison du manque d'espace. En outre, il y a peu d'événements promus par notre municipalité pour l'été prochain, en raison du manque de ressources.</div>
+            <div><b>Example:</b></div>
+            <div>Organize a low-cost rock concert.</div>
+            <div>In our town there are a lot of young bands that cannot show off and improve their talent, because of a lack of space. In addition to this, there are few events promoted by our Municipality for the next summer, because of a lack of resources.</div>
           solution:
-            title: "Titre"
-            maintitle: "Titre"
-            description: "Description de la solution"
-            program: "Date, heure et plan"
-            body: "lieu"
-            place: "Lieu"
-            organization: "Organisation de l'événement"
-            resources: "Ressources nécessaires et comment les récupérer"
-            pros: "Avantages"
-            cons: "Inconvénients"
+            title: "Solution 1"
+            maintitle: "Title"
+            description: "Description of the solution"
+            program: "Date, time and plan"
+            body: "place"
+            place: "Place"
+            organization: "Event organization"
+            resources: "Necessary resources and how to retrieve them"
+            pros: "Pros"
+            cons: "Cons"
           paragraph:
-            similar_experiences: "Expériences similaires"
-            stakeholders: "Intervenants (personnes concernées)"
-            desired_characteristics: "Caractéristiques souhaitées"
+            similar_experiences: "Similar experiences"
+            stakeholders: "Stakeholders (involved people)"
+            desired_characteristics: "Desired characteristics"
           question:
             paragraph:
-              similar_experiences: "Y a t-il des expériences à partir desquelles s'inspirer pour organiser l'événement ? Parmi les initiatives possibles déjà en place, lesquelles ont obtenu les meilleures et les pires résultats ? Pourquoi ?"
-              stakeholders: "Qui bénéficiera des avantages et des inconvénients de la réalisation de l'organisation de l'événement ? Ces personnes ont-elles été impliquées dans la discussion de cette proposition ? De quelle manière ?"
-              desired_characteristics: "Quelles sont les caractéristiques que doit présenter l'événement ? Est-il soumis à des exigences techniques, des normes éthiques, politiques ou organisationnelles ..."
+              similar_experiences: "Esistono esperienze a cui ispirarsi per organizzare l’evento? Tra le possibili iniziative già messe in atto, quali hanno raggiunto migliori risultati e quali peggiori? Perché?"
+              stakeholders: "Chi riceverà dei vantaggi e degli svantaggi dal raggiungimento dall’organizzazione dell’evento? Tali soggetti sono stati coinvolti nella discussione di questa proposta? In che modo?"
+              desired_characteristics: "Quali sono le caratteristiche che l’evento dovrebbe presentare? Possono essere indicati requisiti tecnici, principi etici, criteri organizzativi..."
             solution:
-              description: "Décrire la solution qui est proposée pour l'organisation de l'événement"
-              program: "Quand a lieu l'événement ? Quel sera le programme ? A t-on vérifié que l'événement ne se chevauche pas avec d'autres ? A t-on également vérifié la disponibilité des invités ?"
-              place: "Où l'événement aura-il lieu ? Cet endroit a les installations nécessaires pour l'événement (par exemple, accès aux personnes handicapées, les toilettes, la fourniture d'électricité) ? Si non, comment comptez-vous remédier au problème ?"
-              organization: "Quelles sont les différentes étapes de l'organisation ? Qui sera en charge de l'organisation des différentes étapes ?"
-              resources: "Des fonds, des bénévoles, des outils et des compétences sont-ils nécessaires pour mettre en œuvre cette solution ? Les énumérer et les quantifier. Comment trouver ces ressources ?"
+              description: "Descrivere la soluzione che si propone di adottare per l’organizzazione dell’evento"
+              program: "Quando si svolgerà l’evento? Quale sarà il programma? Si è accertato che l’evento non si sovrapponga con altri? Si è accertata la disponibilità degli invitati?"
+              place: "Dove si svolgerà l’evento? Tale luogo dispone dei servizi necessari per l’evento (es. accesso disabili, bagni, fornitura elettrica)? Se no, come si pensa di rimediare alla lacuna?"
+              organization: "Quali saranno le diverse fasi/aree organizzative? Chii sarà incaricato dell’organizzazione delle diverse fasi/aree?"
+              resources: "Sono necessari fondi, volontari, strumenti, competenze specifiche per realizzare questa soluzione? Elencarli e quantificarli. Come saranno reperite tali risorse?"
         candidates:
           suggestion_html: |
-            <div><b>Exemple :</b></div>
-            <div>Élire le nouveau référent pour le groupe de communication.</div>
-            <div>Le groupe de communication vient d'être créé et il est nécessaire d'élire un référent. Toutes les personnes qui ont été membres du groupe depuis au moins 5 mois peuvent être nominées.</div>
+            <div><b>Example:</b></div>
+            <div>Elect the new referent for the communication group.</div>
+            <div>The communication group has just been established and it is necessary to elect a referent. All the people that have been members of the group for at least 5 months can be nominated.</div>
           solution:
-            name: "Nom et Prénom du candidat"
-            data: "Données personnelles"
-            curriculum: "Curriculum Vitae"
+            name: "Candidate Name and Surname"
+            data: "Personal data"
+            curriculum: "Curriculum"
           paragraph:
-            election_type: "Description du type d'élection :"
-            role: "Titre ou fonction à pourvoir"
-            requirements: "Pré-requis des candidats"
+            election_type: "Description of the type of election:"
+            role: "Ruolo o carica da ricoprire"
+            requirements: "Requisiti del candidato"
           question:
             paragraph:
-              role: "Quel est le rôle pour lequel il est nécessaire de choisir un candidat ? Quelles sont ses fonctions ? Quelles tâches devra-il effectuer ?"
-              requirements: "Quelles sont les caractéristiques du candidat idéal ? Quelles sont les pré-requis minimums obligatoires ?"
+              role: "Quale è il ruolo per il quale è necessario selezionare un candidato? Quali saranno le sue mansioni?  Quali compiti dovrà portare a termine?"
+              requirements: "Quali sono le caratteristiche ideali del candidato? Quali sono i requisiti minimi inderogabili?"
             solution:
-              name: "Indiquer le Nom et Prénom du candidat."
-              data: "Entrez les données personnelles essentielles pour permettre l'identification unique du candidat."
-              curriculum: "Qu'y a t-il dans le curriculum vitae du candidat ? Est-il conforme aux exigences identifiées précédemment ? Les candidats peuvent-ils limiter leur disponibilité sur le poste ?"
+              name: "Indicare Nome e Cognome del candidato."
+              data: "Indicare i dati anagrafici essenziali per consentire l’identificazione univoca del candidato."
+              curriculum: "Qual’è in curriculum del candidato? Rispetta i requisiti precedentemente individuati? Il candidato pone limiti alla propria disponibilità a ricoprire la carica?"
         simple:
-          problems_title: "Problème"
-          problems_title_label: "Quel est le problème à résoudre et/ou quels sont les obstacles à surmonter pour atteindre l'objectif ?"
-          problems_question: "Quel est le problème à résoudre et/ou quels sont les obstacles à surmonter pour atteindre l'objectif ?"
+          problems_title: "Problem"
+          problems_title_label: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
+          problems_question: "What is the problem to be solved and/or what are the obstacles to overcome in order to achieve the goal?"
           solution:
             description: "Description"
             title: "Solution 1"
           question:
             solution:
-              description: "Décrire la solution à adopter pour atteindre l'objectif, en indiquant les échéanciers, les ressources nécessaires pour la mise en œuvre, et les questions non résolues."
+              description: "Descrivere la soluzione da adottare per raggiungere l’obiettivo, indicando tempistiche, risorse necessarie per l’attuazione, eventuali problemi irrisolti."
         petition:
           paragraph:
-            text: "Texte de la pétition"
+            text: "Petition text"
           question:
             paragraph:
-              text: "Texte de la pétition"
+              text: "Text of the petition"
