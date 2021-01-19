@@ -5,3 +5,5 @@ files:
       .en-EU: ''
   - source: /config/locales/en-EU.yml
     translation: /config/locales/%locale%.yml
+  - source: /**/*.md
+    translation: /Markdown/%locale%/%file_name%.%two_letters_code%.md
